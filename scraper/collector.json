@@ -1,0 +1,8 @@
+{
+  "collector_id": "c_wemakedevs_scraper",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "fields": ["event_name", "dates", "format", "prize_pool", "status", "event_url"],
+  "created_at": "2026-08-22T00:00:00Z",
+  "target_selector": "div.event-card",
+  "notes": "WeMakeDevs Hackathons — zero public API. Run: npx -p @brightdata/cli bdata scraper create \"https://www.wemakedevs.org/hackathons\" \"Extract hackathon list: event_name, dates, format, prize_pool, status, event_url\" to register your custom collector in Bright Data Scraper Studio."
+}

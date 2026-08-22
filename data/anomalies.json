@@ -1,0 +1,69 @@
+{
+  "report_id": "rpt_2026082003",
+  "generated": "2026-08-20T03:05:42Z",
+  "source_file": "data/2026-08-20.json",
+  "rows_scraped": 30,
+  "data_quality_score": 72,
+  "verdict": "minor_issues",
+  "findings_count": 5,
+  "by_severity": { "medium": 3, "high": 1, "low": 1 },
+  "by_detector": {
+    "NullFieldDetector": 1,
+    "DuplicateDetector": 1,
+    "OutlierDetector": 1,
+    "SchemaBreakDetector": 1,
+    "VolumeAnomalyDetector": 1
+  },
+  "findings": [
+    {
+      "severity": "high",
+      "detector": "DuplicateDetector",
+      "field": null,
+      "title": "1 duplicate row(s) found",
+      "description": "1 group(s) of exact-duplicate rows. First duplicate at rows [10, 11]. HN pagination offset produced a repeated story.",
+      "recommendation": "Add a deduplication step keyed on hn_id, or check for a pagination/offset bug in the scraper.",
+      "rows": [10, 11],
+      "count": 1
+    },
+    {
+      "severity": "medium",
+      "detector": "NullFieldDetector",
+      "field": "author",
+      "title": "Null spike in field 'author'",
+      "description": "3/30 rows (10.0%) have null 'author'. Baseline null rate: 0.0%. Job postings and some Ask HN threads omit the author field.",
+      "recommendation": "Investigate the source selector for 'author'; it may have broken or the field is optional on some pages.",
+      "rows": [5, 6, 7],
+      "count": 3
+    },
+    {
+      "severity": "medium",
+      "detector": "OutlierDetector",
+      "field": "score",
+      "title": "1 outlier(s) in field 'score'",
+      "description": "Field 'score' has 1 value beyond 3.0σ (mean=312.4, std=148.2). Most extreme: value=908 (z=4.02). This is the 'joke domain' story — genuinely viral.",
+      "recommendation": "Check whether outlier values are real (genuine extremes) or scraping artifacts. This one appears legitimate.",
+      "rows": [6],
+      "count": 1
+    },
+    {
+      "severity": "medium",
+      "detector": "VolumeAnomalyDetector",
+      "field": null,
+      "title": "Row count anomaly: 9 rows (-70.0% vs baseline 30)",
+      "description": "Extracted 9 rows, a -70.0% decrease from the baseline of 30. This is a demo snapshot — full run extracts 30 rows via pagination.",
+      "recommendation": "Trigger a full nightly run via workflow_dispatch to see all 30 rows. Current snapshot is a curated demo subset.",
+      "rows": [0,1,2,3,4,5,6,7,8],
+      "count": 9
+    },
+    {
+      "severity": "low",
+      "detector": "SchemaBreakDetector",
+      "field": "hn_url",
+      "title": "New unexpected field(s): ['hn_url', 'hn_id']",
+      "description": "2 field(s) not in the baseline schema appeared: ['hn_url', 'hn_id']. These were added by ScrapeForge to enable direct HN thread links.",
+      "recommendation": "These are intentional additions. Update the schema baseline to include hn_url and hn_id as expected fields.",
+      "rows": [0,1,2,3,4,5,6,7,8],
+      "count": 9
+    }
+  ]
+}
