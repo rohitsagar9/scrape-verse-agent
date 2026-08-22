@@ -5,7 +5,7 @@
 Built for **[Into the Scrape-Verse](https://wemakedevs.org/hackathons/scrape-verse)** (WeMakeDevs × Bright Data, Aug 17–23, 2026).
 
 **Author:** **Rohit Sairam Vidyasagar** | [LinkedIn](https://www.linkedin.com/in/rohitsagar9/) | Email: `rohitsairamvidyasagar@gmail.com`  
-**Live Demo:** [healpipe-dashboard.vercel.app](https://healpipe-dashboard.vercel.app)  
+**Live Demo:** [healpipe-dashboard.vercel.app](https://scrape-verse-agent-omega.vercel.app/)  
 **Target Collector ID:** `c_wemakedevs_scraper`
 
 ---
@@ -79,8 +79,8 @@ HealPipe wraps Bright Data Scraper Studio with a pre-failure sensing radar and a
                   │     └─ SHA-256 fingerprint check          │
                   │                                           │
                   │  2. Dual-Signal Gate (Hash + Schema)      │
-                  │     ├─ Match ──▶ bdata scraper run ✅     │
-                  │     └─ Drift ──▶ 4-Stage Cascade          │
+                  │     ├─ Match ──▶ bdata scraper run       │
+                  │     └─ Drift ──▶ 4-Stage Cascade         │
                   │                    │                      │
                   │    ┌───────────────┴───────────────┐      │
                   │    ▼                               ▼      │
