@@ -234,15 +234,31 @@ export default function Overview() {
           >
             Scraper Engine ↓
           </button>
-          <button
-            className="btn-primary"
-            onClick={runInteractiveDemo}
-            disabled={demoState === 'running'}
-            aria-label="Run interactive heal demonstration"
-          >
-            <PlayIcon />
-            {demoState === 'running' ? 'Healing…' : 'Run heal'}
-          </button>
+          <div style={{ display: 'flex', gap: 8 }}>
+            <button
+              className="btn-secondary"
+              onClick={() => {
+                fetch('/api/brightdata', { method: 'POST' })
+                  .then(res => res.json())
+                  .then(data => {
+                    setLogs((prev) => [...prev, { time: new Date().toLocaleTimeString(), color: '#00D2FF', text: `Bright Data: ${data.message}` }]);
+                  })
+                  .catch(err => setLogs((prev) => [...prev, { time: new Date().toLocaleTimeString(), color: '#FF3B30', text: 'Bright Data trigger failed' }]));
+              }}
+              style={{ fontSize: '0.75rem', background: '#00D2FF', color: '#0E131F' }}
+            >
+              Trigger Bright Data Scrape
+            </button>
+            <button
+              className="btn-primary"
+              onClick={runInteractiveDemo}
+              disabled={demoState === 'running'}
+              aria-label="Run interactive heal demonstration"
+            >
+              <PlayIcon />
+              {demoState === 'running' ? 'Healing…' : 'Run heal'}
+            </button>
+          </div>
         </div>
       }
       tickerItems={tickerItems}
