@@ -238,12 +238,22 @@ export default function Overview() {
             <button
               className="btn-secondary"
               onClick={() => {
-                fetch('/api/brightdata', { method: 'POST' })
+                fetch('https://api.brightdata.com/dca/trigger', {
+                  method: 'POST',
+                  headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${process.env.BRIGHT_DATA_API_TOKEN}`
+                  },
+                  body: JSON.stringify({
+                    collector_id: process.env.COLLECTOR_ID || 'c_wemakedevs_scraper',
+                    target_url: process.env.TARGET_URL || 'https://www.wemakedevs.org/hackathons'
+                  })
+                })
                   .then(res => res.json())
                   .then(data => {
-                    setLogs((prev) => [...prev, { time: new Date().toLocaleTimeString(), color: '#00D2FF', text: `Bright Data: ${data.message}` }]);
+                    setLogs((prev) => [...prev, { time: new Date().toLocaleTimeString(), color: '#00D2FF', text: `Bright Data: Run triggered - Job ID: ${data.job_id || 'unknown'}` }]);
                   })
-                  .catch(err => setLogs((prev) => [...prev, { time: new Date().toLocaleTimeString(), color: '#FF3B30', text: 'Bright Data trigger failed' }]));
+                  .catch(err => setLogs((prev) => [...prev, { time: new Date().toLocaleTimeString(), color: '#FF3B30', text: 'Bright Data trigger failed - check API config' }]));
               }}
               style={{ fontSize: '0.75rem', background: '#00D2FF', color: '#0E131F' }}
             >
