@@ -1,6 +1,7 @@
 /**
  * Shared chrome — Linear/Vercel command bar + mission-control ticker.
  */
+import { useEffect } from 'react';
 import Link from 'next/link';
 import Head from 'next/head';
 import { useSSE } from '../lib/sse';
@@ -43,6 +44,12 @@ export default function AppShell({
   const { connected } = useSSE();
   const items = tickerItems?.length ? tickerItems : DEFAULT_TICKER;
   const loop = [...items, ...items];
+
+  useEffect(() => {
+    try {
+      window.scrollTo(0, 0);
+    } catch {}
+  }, [active]);
 
   return (
     <>

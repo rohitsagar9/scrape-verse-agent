@@ -36,6 +36,9 @@ export default function Playbook() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
+    try {
+      window.scrollTo(0, 0);
+    } catch {}
     async function load() {
       const data = await fetchJSON('/api/playbook');
       setPlaybook(data || {});

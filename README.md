@@ -1,75 +1,88 @@
 # HealPipe — Autonomous Self-Healing CI Scraper & Global Hackathon Radar
 
-**Nightly self-healing scraper pipeline & multi-platform opportunity monitor built on Bright Data Scraper Studio.** Detects DOM skeleton class drift *before* scrapers fail, repairs selectors via Bright Data Scraper Studio CLI, and promotes repairs in-place under the exact same Collector ID — all while monitoring **WeMakeDevs** (Featured), **Devpost**, **Unstop**, **HackerEarth**, and **Devfolio**.
+> **Into the Scrape-Verse Hackathon** (WeMakeDevs × Bright Data, Aug 17–23, 2026)  
+> Contender for **Suit-Up Track** ($5,000 NVIDIA DGX Spark AI Supercomputer), **Best UI Track** (Apple iPads), and **Best Clean Code** (Keychron Keyboards).
 
-Built for **[Into the Scrape-Verse](https://wemakedevs.org/hackathons/scrape-verse)** (WeMakeDevs × Bright Data, Aug 17–23, 2026).
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-healpipe--dashboard.vercel.app-00FF88?style=for-the-badge&logo=vercel)](https://scrape-verse-agent-omega.vercel.app)
+[![Bright Data](https://img.shields.io/badge/Engine-Bright%20Data%20Scraper%20Studio-00D2FF?style=for-the-badge)](https://brightdata.com)
+[![License](https://img.shields.io/badge/License-MIT-FFDE59?style=for-the-badge)](LICENSE)
 
 **Author:** **Rohit Sairam Vidyasagar** | [LinkedIn](https://www.linkedin.com/in/rohitsagar9/) | Email: `rohitsairamvidyasagar@gmail.com`  
-**Live Demo:** [healpipe-dashboard.vercel.app](https://healpipe-dashboard.vercel.app)  
+**Live Control Center:** [scrape-verse-agent-omega.vercel.app](https://scrape-verse-agent-omega.vercel.app)  
 **Target Collector ID:** `c_wemakedevs_scraper`
 
 ---
 
-## Quick Demo
+## ⚡ 30-Second Elevator Pitch
 
-**Live SCADA Control Center:** [healpipe-dashboard.vercel.app](https://healpipe-dashboard.vercel.app)  
-Click **▶ Run Heal** or **AI Digest Generator ⚡** to inspect real-time telemetry, DOM skeleton hash diffs, and synthesized opportunity briefings.
+Web scrapers rot silently at 3am. A target event platform renames a CSS class or wraps cards in a new layout container. Traditional scrapers exit 0 with empty arrays or null fields — causing students to miss out on $10,000 hackathon registration deadlines, **NVIDIA DGX Spark AI Supercomputers**, **Apple iPads**, and **Keychron Keyboards**.
 
-### One-Call CLI Execution (Bright Data Scraper Studio Driver)
+Naive AI healers catch exceptions and blindly run expensive 15-minute LLM re-scrapes every night, recreating new scrapers that break downstream production API keys and CI/CD pipelines.
 
-```bash
-# Run nightly extraction via Bright Data CLI driver
-npx -p @brightdata/cli bdata scraper run c_wemakedevs_scraper https://www.wemakedevs.org/hackathons
+**HealPipe** solves this cleanly:
+1. **Pre-Failure Sensing**: Normalizes DOM HTML structure into a canonical skeleton tree, hashing it with SHA-256 to catch class drift *before* scrapers fail.
+2. **Stage 0 Playbook Memory (~1.8s)**: Replays stored hash-pair transition maps (`old_hash -> new_hash`). Repeat site redesigns heal in **1.8 seconds for $0 LLM cost**.
+3. **In-Place Collector Lock (`c_wemakedevs_scraper`)**: Auto-heals and approves draft repairs via `bdata scraper heal` + `bdata scraper approve` **under the exact same Collector ID**, keeping downstream production API keys and CI/CD workflows intact.
+
+---
+
+## 📸 Interactive Control Center Features
+
+| Feature | Capabilities |
+| :--- | :--- |
+| 🎓 **Student Opportunity Radar** | Primary landing viewport monitoring **WeMakeDevs** (Featured), **Devpost**, **Unstop**, **HackerEarth**, and **Devfolio**. |
+| ↕️ **Portfolio Curtain Arrow Navigation** | Floating center navigation arrow toggling seamlessly between the Student Directory and SCADA Scraper Telemetry. |
+| ⏳ **Time-Travel Snapshot Explorer** | Instant toggle between daily extractions: `LATEST: 2026-08-22`, `PAST: 2026-08-21`, `PAST: 2026-08-20`. |
+| 📈 **DOM Fingerprint Oscilloscopes** | Per-field SHA-256 hash spectrum waveforms with interactive `Inspect` triggers. |
+| ⚡ **AI Executive Briefing Generator** | Synthesizes clean scraped JSON into student tech digests, Pinecone vector embeddings, and webhooks. |
+
+---
+
+## 🛠️ How Bright Data Scraper Studio Is Used
+
+> *This section explicitly documents Bright Data Scraper Studio usage per hackathon rules §5 & §9.*
+
+HealPipe is built entirely on **Bright Data Scraper Studio's CLI engine (`@brightdata/cli`)**. All scrape lifecycle operations execute programmatically via `npx -p @brightdata/cli bdata` CLI commands:
+
+```
+                      ┌──────────────────────────────────────────────┐
+  bdata scraper       │  1. Custom Scraper Created                   │
+  create              │  Target: wemakedevs.org/hackathons           │
+                      │  Collector ID: c_wemakedevs_scraper          │
+                      └──────────────────────┬───────────────────────┘
+                                             │
+                                             ▼
+                      ┌──────────────────────────────────────────────┐
+  bdata scraper       │  2. Nightly CI Extraction Run                │
+  run                 │  Executes 03:00 UTC via GitHub Actions       │
+                      │  Returns structured JSON to data/            │
+                      └──────────────────────┬───────────────────────┘
+                                             │ (If DOM Drift Detected)
+                                             ▼
+                      ┌──────────────────────────────────────────────┐
+  bdata scraper       │  3. Stage 2 LLM Studio Heal                  │
+  heal                │  Refactors CSS selectors inside Studio       │
+                      └──────────────────────┬───────────────────────┘
+                                             │
+                                             ▼
+                      ┌──────────────────────────────────────────────┐
+  bdata scraper       │  4. Promote Draft to Production              │
+  approve             │  Same Collector ID locked in-place           │
+                      └──────────────────────────────────────────────┘
 ```
 
-Sample structured output returned from Scraper Studio:
+| Operation | Command | Purpose in HealPipe |
+|---|---|---|
+| **Create Custom Scraper** | `bdata scraper create "https://www.wemakedevs.org/hackathons"` | Registers custom collector `c_wemakedevs_scraper` with fields `event_name`, `dates`, `format`, `prize_pool`, `status`. *(Rule §5: Custom scraper created in Studio).* |
+| **Nightly Run** | `bdata scraper run c_wemakedevs_scraper <URL>` | Automated nightly extraction outputting clean structured JSON. |
+| **Studio Self-Heal** | `bdata scraper heal c_wemakedevs_scraper "<incident>"` | Passes incident context into Scraper Studio to auto-repair selectors on structural layout breaks. |
+| **Promote Draft** | `bdata scraper approve c_wemakedevs_scraper` | Promotes draft into production **under the exact same Collector ID**. |
 
-```json
-[
-  {
-    "rank": 1,
-    "event_name": "WeMakeDevs Agent Harness Hackathon 2026",
-    "platform": "WeMakeDevs",
-    "is_featured": true,
-    "prize_pool": "$5,000 + NVIDIA DGX Spark Supercomputer",
-    "dates": "Aug 22 - Aug 25, 2026",
-    "format": "Global Online / Hybrid",
-    "status": "OPEN FOR REGISTRATION",
-    "url": "https://www.wemakedevs.org/hackathons"
-  }
-]
-```
+**$50 Free Credits**: Redeem promo code **`wemakedevs`** at signup on [brightdata.com](https://brightdata.com).
 
 ---
 
-## The Problem
-
-Web data is volatile. Target event platforms and developer portals frequently update their CSS class names, wrapper structures, and card layouts. A standard scraper fails silently at 3am — exiting 0 with empty arrays or null fields.
-
-Missing a hackathon drop by one day means CS students and developers miss out on $10,000 prize pools, **NVIDIA DGX Spark AI Supercomputers**, **Apple iPads**, and **Keychron Keyboards**.
-
-Bright Data Scraper Studio gives you clean **extraction**. However, traditional pipelines break downstream API keys and CI workflows when scrapers crash or create duplicate Collector IDs.
-
----
-
-## The Solution: HealPipe
-
-HealPipe wraps Bright Data Scraper Studio with a pre-failure sensing radar and a 4-stage resolution cascade:
-
-1. **Pre-Failure Sensing (Dual-Signal Gate)**: Normalizes DOM HTML structure into a canonical skeleton tree, hashing it with SHA-256. Fuses this with schema output validation to filter cosmetic noise from real structural breaks.
-2. **Stage 0 Playbook Memory (~1.8s)**: Maintains a hash-pair memory (`old_hash -> new_hash`). Repeat site redesigns heal instantly for **$0 LLM cost**, skipping 15-minute LLM cycles.
-3. **In-Place Collector ID Locking (`c_wemakedevs_scraper`)**: Auto-heals and approves draft repairs via `bdata scraper heal` + `bdata scraper approve` **under the exact same Collector ID**, keeping downstream CI/CD pipelines intact.
-4. **Time-Travel Snapshot Explorer**: Seamlessly flip between `LATEST: 2026-08-22`, `PAST: 2026-08-21`, and `PAST: 2026-08-20` to verify historic extraction fidelity.
-
----
-
-## Unique Angle
-
-> Unlike standalone scrapers or naive "catch exception then re-scrape" tools, **HealPipe** fuses pre-failure DOM skeleton fingerprinting with Bright Data Scraper Studio CLI, using a **Stage 0 Playbook Memory** to replay repeat redesigns in **~1.8s for $0 LLM cost**, while locking Collector IDs in-place so downstream production API keys never break.
-
----
-
-## Architecture
+## 🏗️ Architecture & 4-Stage Cascade
 
 ```
                   ┌───────────────────────────────────────────┐
@@ -98,101 +111,88 @@ HealPipe wraps Bright Data Scraper Studio with a pre-failure sensing radar and a
                        Downstream AI Student Digest
 ```
 
----
+### The 4 Resolution Valves
 
-## How Bright Data Scraper Studio Is Used
-
-Every scrape operation goes through **Bright Data Scraper Studio CLI (`bdata`)** commands executed programmatically via `npx -p @brightdata/cli`:
-
-| Command | Where | What It Does in HealPipe |
-|---|---|---|
-| `bdata scraper create "https://www.wemakedevs.org/hackathons"` | M1 Initial Setup | Creates custom scraper `c_wemakedevs_scraper` in Scraper Studio with defined fields (`event_name`, `dates`, `format`, `prize_pool`, `status`). |
-| `bdata scraper run c_wemakedevs_scraper <URL>` | Nightly CI Pipeline | Runs automated extraction every night at 03:00 UTC via GitHub Actions, outputting clean structured JSON. |
-| `bdata scraper heal c_wemakedevs_scraper "<incident>"` | Stage 2 LLM Heal | When DOM skeleton drift is detected, passes incident context into Scraper Studio to auto-repair selectors. |
-| `bdata scraper approve c_wemakedevs_scraper` | Stage 4 Approval | Promotes the repaired draft into production **under the exact same Collector ID**. |
-
-**10/10 Hackathon Rule Compliance**:
-- **Custom Scraper**: Created via `bdata scraper create` for `wemakedevs.org/hackathons` (not a pre-built library scraper).
-- **No Public API Target**: Monitored platforms (WeMakeDevs, Devpost, Unstop, HackerEarth, Devfolio) do not offer free REST APIs for event listings.
-- **Zero Global Installs**: All commands run cleanly through `npx -p @brightdata/cli`.
+| Stage | Latency | Cost | Mechanism |
+|---|---|---|---|
+| **Stage 0 — Playbook** | **~1.8s** | **$0 LLM** | Exact hash transition match → re-apply stored selector map from `playbook.json` |
+| **Stage 1 — Heuristic Remap** | **~2–5s** | **$0 LLM** | Scores sibling/cousin DOM elements; adopts if confidence ≥ 0.85 |
+| **Stage 2 — LLM Studio Heal** | **~15min** | **API Credits** | Invokes `bdata scraper heal` with incident context inside Scraper Studio |
+| **Stage 3 — Escalate** | **Immediate** | **$0** | All stages failed → roll back, flag incident for manual review PR |
 
 ---
 
-## The 4-Stage Cascade Heal
+## 🌐 Target Sites & Global Hackathon Radar
 
-| Stage | Latency | Mechanism |
-|---|---|---|
-| **0 — Playbook** | **~1.8s** | Exact hash transition seen before → re-apply stored selector map for **$0 LLM cost** |
-| **1 — Heuristic Remap** | **~2–5s** | Scores sibling/cousin DOM elements; adopts if confidence ≥ 0.85 |
-| **2 — LLM Heal** | **~15min** | Invokes `bdata scraper heal` with incident context inside Scraper Studio |
-| **3 — Escalate** | **Immediate** | All stages failed → roll back, flag incident for manual review PR |
+- **Featured Target**: **WeMakeDevs Hackathons** (`https://www.wemakedevs.org/hackathons`) — **Zero Public API**, **No Pre-Built Template**.
+- **Monitored Platforms**: **WeMakeDevs**, **Devpost**, **Unstop**, **HackerEarth**, **Devfolio**.
+- **Extracted Schema**: `event_name`, `platform`, `prize_pool`, `dates`, `format`, `status`, `event_url`.
 
 ---
 
-## Target Sites & Global Hackathon Radar
-
-- **Featured Target**: **WeMakeDevs Hackathons** (`https://www.wemakedevs.org/hackathons`)
-- **Monitored Platforms**: **WeMakeDevs**, **Devpost**, **Unstop**, **HackerEarth**, **Devfolio**
-- **Fields Extracted**: `event_name`, `platform`, `prize_pool`, `dates`, `format`, `status`, `event_url`
-
----
-
-## Quick Start
+## 🚀 Quick Start (Run Locally in 1 Minute)
 
 ```bash
-# Clone repository
-git clone https://github.com/YOUR_USERNAME/scrape-verse-agent.git
+# 1. Clone repository
+git clone https://github.com/superman32432432/scrape-verse-agent.git
 cd scrape-verse-agent
 
-# Install dashboard dependencies
+# 2. Install dashboard dependencies
 cd dashboard
 npm install
 
-# Run locally in mock/demo mode
+# 3. Launch local dev server
 npm run dev
-# → http://localhost:3000
+# → Open http://localhost:3000
 ```
 
 ---
 
-## Example Output
+## 📂 Repository Structure
 
-See [`data/`](data/):
-- [`data/2026-08-22.json`](data/2026-08-22.json) — Latest multi-platform hackathon snapshot
-- [`data/2026-08-21.json`](data/2026-08-21.json) — Historical snapshot
-- [`logs/run_history.json`](logs/run_history.json) — Telemetry run history ledger
+```
+scrape-verse-agent/
+├── .github/workflows/nightly.yml     # Cron + workflow_dispatch trigger
+├── scraper/collector.json            # { collector_id: "c_wemakedevs_scraper", url, fields }
+├── fingerprint/                      # DOM skeleton normalizer + SHA-256 hasher
+│   ├── fetch_block.py                # Raw HTML fetcher
+│   ├── normalize.py                  # Skeleton canonicalizer
+│   └── hash_block.py                 # SHA-256 hash generator
+├── validate/                         # Dual-signal schema & null value detector
+├── heal/                             # 4-stage cascade orchestrator + playbook.json
+├── data/                             # Daily snapshot files (2026-08-22.json, etc.)
+├── logs/run_history.json             # Telemetry run history ledger
+├── dashboard/                        # Next.js SCADA Control Center
+│   ├── components/                   # AppShell, FaultLineWaveform, CaseDossierModal, AIDigestModal, AgentMatrixCard
+│   ├── pages/index.js                # Main Control Board & Time-Travel Explorer
+│   ├── pages/data.js                 # Extracted snapshot explorer
+│   └── pages/api/                    # File-backed REST API endpoints
+├── README.md                         # This file
+├── CONCEPT.md                        # Concept thesis & architecture guide
+├── AI_DISCLOSURE.md                  # Hackathon AI assistant disclosure (rule §10)
+├── PRODUCT.md                        # Product positioning & brand commitments
+└── LICENSE                           # MIT License
+```
 
 ---
 
-## Tech Stack
+## 🤖 AI Assistant Disclosure (Hackathon Rule §10)
 
-| Layer | Technology |
-|---|---|
-| **Extraction Engine** | Bright Data Scraper Studio CLI (`@brightdata/cli`) |
-| **Sensing & Validation** | Python 3.11+ (`hashlib`, `difflib`, `json`) |
-| **Dashboard UI** | Next.js 14 (Pages Router) + SCADA CSS Design System |
-| **Telemetry APIs** | File-backed REST endpoints (`/api/snapshot/[date]`) |
-| **Deployment** | Vercel Serverless + GitHub Actions Cron (03:00 UTC) |
-
----
-
-## AI Assistant Disclosure (Hackathon Rule §10)
-
-This project was built with the assistance of **Antigravity** (Google DeepMind) / Claude 3.5 Sonnet. AI was used for architecture design, python/React code generation, and documentation. All code was reviewed, tested, and understood by the author. The DOM skeleton hash fingerprinting logic, Playbook memory design, and Bright Data CLI integration are the author's own creation.
+This project was built with the assistance of **Antigravity** (Google DeepMind) / Claude 3.5 Sonnet. AI was used for architecture design, python/React code generation, and documentation. All code was reviewed, tested (clean builds pass), and understood by the author. The DOM skeleton hash fingerprinting logic, Playbook memory design, and Bright Data CLI integration are the author's own creation.
 
 See [`AI_DISCLOSURE.md`](AI_DISCLOSURE.md) for the full disclosure.
 
 ---
 
-## Author & Contact
+## 👤 Author & Contact
 
 **Rohit Sairam Vidyasagar**  
 - **LinkedIn**: [linkedin.com/in/rohitsagar9](https://www.linkedin.com/in/rohitsagar9/)  
 - **Email**: `rohitsairamvidyasagar@gmail.com`  
-- **Hackathon Submission**: [Into the Scrape-Verse](https://wemakedevs.org/hackathons/scrape-verse) (WeMakeDevs × Bright Data, Aug 2026)
+- **Submission**: [Into the Scrape-Verse](https://wemakedevs.org/hackathons/scrape-verse) (WeMakeDevs × Bright Data, Aug 2026)
 
 ---
 
-## License
+## 📜 License
 
-MIT — see [`LICENSE`](LICENSE).
+MIT License — see [`LICENSE`](LICENSE).
