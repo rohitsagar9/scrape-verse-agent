@@ -92,8 +92,8 @@ HealPipe is built entirely on **Bright Data Scraper Studio's CLI engine (`@brigh
                   │     └─ SHA-256 fingerprint check          │
                   │                                           │
                   │  2. Dual-Signal Gate (Hash + Schema)      │
-                  │     ├─ Match ──▶ bdata scraper run ✅     │
-                  │     └─ Drift ──▶ 4-Stage Cascade          │
+                  │     ├─ Match ──▶ bdata scraper run       │
+                  │     └─ Drift ──▶ 4-Stage Cascade         │
                   │                    │                      │
                   │    ┌───────────────┴───────────────┐      │
                   │    ▼                               ▼      │
