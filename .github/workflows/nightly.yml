@@ -19,7 +19,7 @@ on:
 
 env:
   PYTHON_VERSION: "3.11"
-  NODE_VERSION: "20"
+  NODE_VERSION: "24"
   TARGET_URL: ${{ github.event.inputs.target_url || 'https://news.ycombinator.com' }}
 
 jobs:
@@ -120,6 +120,7 @@ jobs:
         if: steps.validate_happy.outputs.passed == 'true'
         run: |
           TODAY=$(date -u +%Y-%m-%d)
+          mkdir -p data logs
           cp /tmp/scraper_output.json "data/$TODAY.json"
           
           # Append to run history (idempotent — skip if today already present)
@@ -130,6 +131,7 @@ jobs:
 
           today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
           path = Path("logs/run_history.json")
+          path.parent.mkdir(parents=True, exist_ok=True)
           history = json.loads(path.read_text()) if path.exists() else []
 
           if any(e.get("date") == today for e in history):
@@ -213,6 +215,7 @@ jobs:
 
           today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
           path = Path("logs/run_history.json")
+          path.parent.mkdir(parents=True, exist_ok=True)
           history = json.loads(path.read_text()) if path.exists() else []
 
           if any(e.get("date") == today for e in history):
