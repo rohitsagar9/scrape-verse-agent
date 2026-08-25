@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "3a58336bb7a3e73b7ff8f004a6bc6496c88bedfb3ee62efb0bbb9cd4e56d64f6",
+  "changed_fields": [
+    "title",
+    "url",
+    "score"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?g873MbjYKKvPFKy21lu5\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49426564\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49426564' href='vote?id=49426564&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://developer.apple.com/news/?id=1ptvdtcm\">iCloud+ Hide My Email addresses will remain on icloud.com</a><span class=\"sitebit comhead\"> (<a href=\"from?site=developer.apple.com\"><span class=\"sitestr\">developer.apple.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49426564\">282 points</span> by <a href=\"user?id=K7PJP\" class=\"hnuser\">K7PJP</a> <span class=\"age\" title=\"2026-08-24T22:13:40 1787609620\"><a href=\"item?id=49426564\">5 hours ago</a></span> <span id=\"unv_49426564\"></span> | <a href=\"hide?id=49426564&amp;goto=news\">hide</a> | <a href=\"item?id=49426564\">71&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49420873\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49420873' href='vote?id=49420873&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://twitter.com/lemire/status/2091894299289874926\">Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded</a><span class=\"sitebit comhead\"> (<a href=\"from?site=twitter.com/lemire\"><span class=\"sitestr\">twitter.com/lemire</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49420873\">759 points</span> by <a href=\"user?id=tosh\" class=\"hnuser\">tosh</a> <span class=\"age\" title=\"2026-08-24T15:08:17 1787584097\"><a href=\"item?id=49420873\">12 hours ago</a></span> <span id=\"unv_49420873\"></span> | <a href=\"hide?id=49420873&amp;goto=news\">hide</a> | <a href=\"item?id=49420873\">511&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49421158\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49421158' href='vote?id=49421158&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/\">MS Paint and Photos inivisibly watermark even locally generated output with GUID</a><span class=\"sitebit comhead\"> (<a href=\"from?site=xusheng.dev\"><span class=\"sitestr\">xusheng.dev</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49421158\">595 points</span> by <a href=\"user?id=ComputerGuru\" class=\"hnuser\">ComputerGuru</a> <span class=\"age\" title=\"2026-08-24T15:28:04 1787585284\"><a href=\"item?id=49421158\">12 hours ago</a></span> <span id=\"unv_49421158\"></span> | <a href=\"hide?id=49421158&amp;goto=news\">hide</a> | <a href=\"item?id=49421158\">236&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49426466\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49426466' href='vote?id=49426466&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://ciechanow.ski/moon/\">Moon (2024)</a><span class=\"sitebit comhead\"> (<a href=\"from?site=ciechanow.ski\"><span class=\"sitestr\">ciechanow.ski</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49426466\">118 points</span> by <a href=\"user?id=simonebrunozzi\" class=\"hnuser\">simonebrunozzi</a> <span class=\"age\" title=\"2026-08-24T22:06:02 1787609162\"><a href=\"item?id=49426466\">5 hours ago</a></span> <span id=\"unv_49426466\"></span> | <a href=\"hide?id=49426466&amp;goto=news\">hide</a> | <a href=\"item?id=49426466\">20&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49428121\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49428121' href='vote?id=49428121&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"",
+  "validation_failures": [],
+  "timestamp": "2026-08-25T03:38:23.307753+00:00",
+  "per_field_hashes": {
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "98add7dd92507ba37432750b6a9fff8816994daf5856aa025dd8cd3c96755b76",
+      "changed": true
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "98add7dd92507ba37432750b6a9fff8816994daf5856aa025dd8cd3c96755b76",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "a295d1d3902e95221306be5c2c29887fb0948a4aa94c347a381fbf3b1012d7ba",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    }
+  }
+}
