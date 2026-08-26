@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "7974abee5028f498a30dc9d3dfcc74287848ed691e0ab920275533d71f2fc964",
+  "changed_fields": [
+    "url",
+    "title",
+    "score"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?g873MbjYKKvPFKy21lu5\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49433292\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49433292' href='vote?id=49433292&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/\">Apple introduces M6 and M5 Ultra</a><span class=\"sitebit comhead\"> (<a href=\"from?site=apple.com\"><span class=\"sitestr\">apple.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49433292\">1010 points</span> by <a href=\"user?id=interpol_p\" class=\"hnuser\">interpol_p</a> <span class=\"age\" title=\"2026-08-25T13:01:22 1787662882\"><a href=\"item?id=49433292\">14 hours ago</a></span> <span id=\"unv_49433292\"></span> | <a href=\"hide?id=49433292&amp;goto=news\">hide</a> | <a href=\"item?id=49433292\">942&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49439017\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49439017' href='vote?id=49439017&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar\">FDA authorizes first wearable device that monitors ketone and blood sugar levels</a><span class=\"sitebit comhead\"> (<a href=\"from?site=fda.gov\"><span class=\"sitestr\">fda.gov</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49439017\">314 points</span> by <a href=\"user?id=sunnynagra\" class=\"hnuser\">sunnynagra</a> <span class=\"age\" title=\"2026-08-25T19:07:01 1787684821\"><a href=\"item?id=49439017\">8 hours ago</a></span> <span id=\"unv_49439017\"></span> | <a href=\"hide?id=49439017&amp;goto=news\">hide</a> | <a href=\"item?id=49439017\">153&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49434378\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49434378' href='vote?id=49434378&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia\">OpenAI Jalapeño: Better than Nvidia Blackwell</a><span class=\"sitebit comhead\"> (<a href=\"from?site=semianalysis.com\"><span class=\"sitestr\">semianalysis.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49434378\">369 points</span> by <a href=\"user?id=bmulholland\" class=\"hnuser\">bmulholland</a> <span class=\"age\" title=\"2026-08-25T14:06:02 1787666762\"><a href=\"item?id=49434378\">10 hours ago</a></span> <span id=\"unv_49434378\"></span> | <a href=\"hide?id=49434378&amp;goto=news\">hide</a> | <a href=\"item?id=49434378\">256&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49433316\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49433316' href='vote?id=49433316&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/\">New Mac Studio with M5 Max and M5 Ultra</a><span class=\"sitebit comhead\"> (<a href=\"from?site=apple.com\"><span class=\"sitestr\">apple.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49433316\">718 points</span> by <a href=\"user?id=interpol_p\" class=\"hnuser\">interpol_p</a> <span class=\"age\" title=\"2026-08-25T13:03:17 1787662997\"><a href=\"item?id=49433316\">14 hours ago</a></span> <span id=\"unv_49433316\"></span> | <a href=\"hide?id=49433316&amp;goto=news\">hide</a> | <a href=\"item?id=49433316\">476&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49442589\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks",
+  "validation_failures": [],
+  "timestamp": "2026-08-26T03:43:35.328992+00:00",
+  "per_field_hashes": {
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "97dc9e8b78c43ea07598a93134202bc72b769c33b4abfe4c3f92a56ffc5d70be",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "97dc9e8b78c43ea07598a93134202bc72b769c33b4abfe4c3f92a56ffc5d70be",
+      "changed": true
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "6ca3de154f6606f0517d6c5cee3b0dc1ba861a2a4329af572728954e71777b6f",
+      "changed": true
+    }
+  }
+}
