@@ -9,7 +9,14 @@
     "duration_s": 18,
     "collector_id": "c_hn_scrapper",
     "url": "https://news.ycombinator.com",
-    "schema_confidence": { "title": 0.98, "url": 0.97, "score": 0.96, "author": 0.95, "comments_count": 0.93, "rank": 0.99 }
+    "schema_confidence": {
+      "title": 0.98,
+      "url": 0.97,
+      "score": 0.96,
+      "author": 0.95,
+      "comments_count": 0.93,
+      "rank": 0.99
+    }
   },
   {
     "date": "2026-08-15",
@@ -23,8 +30,18 @@
     "url": "https://news.ycombinator.com",
     "old_hash": "f5dd0fa5e5b56506",
     "new_hash": "a1b2c3d4e5f60789",
-    "changed_fields": ["score", "rank"],
-    "schema_confidence": { "title": 0.98, "url": 0.97, "score": 0.91, "author": 0.95, "comments_count": 0.93, "rank": 0.88 }
+    "changed_fields": [
+      "score",
+      "rank"
+    ],
+    "schema_confidence": {
+      "title": 0.98,
+      "url": 0.97,
+      "score": 0.91,
+      "author": 0.95,
+      "comments_count": 0.93,
+      "rank": 0.88
+    }
   },
   {
     "date": "2026-08-16",
@@ -36,7 +53,14 @@
     "duration_s": 19,
     "collector_id": "c_hn_scrapper",
     "url": "https://news.ycombinator.com",
-    "schema_confidence": { "title": 0.99, "url": 0.98, "score": 0.97, "author": 0.96, "comments_count": 0.95, "rank": 0.99 }
+    "schema_confidence": {
+      "title": 0.99,
+      "url": 0.98,
+      "score": 0.97,
+      "author": 0.96,
+      "comments_count": 0.95,
+      "rank": 0.99
+    }
   },
   {
     "date": "2026-08-17",
@@ -50,8 +74,18 @@
     "url": "https://news.ycombinator.com",
     "old_hash": "a1b2c3d4e5f60789",
     "new_hash": "9f8e7d6c5b4a3210",
-    "changed_fields": ["score", "rank"],
-    "schema_confidence": { "title": 0.98, "url": 0.97, "score": 0.89, "author": 0.95, "comments_count": 0.93, "rank": 0.85 }
+    "changed_fields": [
+      "score",
+      "rank"
+    ],
+    "schema_confidence": {
+      "title": 0.98,
+      "url": 0.97,
+      "score": 0.89,
+      "author": 0.95,
+      "comments_count": 0.93,
+      "rank": 0.85
+    }
   },
   {
     "date": "2026-08-18",
@@ -63,7 +97,14 @@
     "duration_s": 17,
     "collector_id": "c_hn_scrapper",
     "url": "https://news.ycombinator.com",
-    "schema_confidence": { "title": 0.99, "url": 0.99, "score": 0.98, "author": 0.97, "comments_count": 0.96, "rank": 0.99 }
+    "schema_confidence": {
+      "title": 0.99,
+      "url": 0.99,
+      "score": 0.98,
+      "author": 0.97,
+      "comments_count": 0.96,
+      "rank": 0.99
+    }
   },
   {
     "date": "2026-08-19",
@@ -77,8 +118,18 @@
     "url": "https://news.ycombinator.com",
     "old_hash": "9f8e7d6c5b4a3210",
     "new_hash": "f5dd0fa5e5b56506",
-    "changed_fields": ["score", "rank"],
-    "schema_confidence": { "title": 0.99, "url": 0.98, "score": 0.97, "author": 0.96, "comments_count": 0.95, "rank": 0.99 }
+    "changed_fields": [
+      "score",
+      "rank"
+    ],
+    "schema_confidence": {
+      "title": 0.99,
+      "url": 0.98,
+      "score": 0.97,
+      "author": 0.96,
+      "comments_count": 0.95,
+      "rank": 0.99
+    }
   },
   {
     "date": "2026-08-20",
@@ -90,6 +141,20 @@
     "duration_s": 18,
     "collector_id": "c_hn_scrapper",
     "url": "https://news.ycombinator.com",
-    "schema_confidence": { "title": 0.99, "url": 0.99, "score": 0.98, "author": 0.97, "comments_count": 0.96, "rank": 0.99 }
+    "schema_confidence": {
+      "title": 0.99,
+      "url": 0.99,
+      "score": 0.98,
+      "author": 0.97,
+      "comments_count": 0.96,
+      "rank": 0.99
+    }
+  },
+  {
+    "date": "2026-08-27",
+    "signal": "both",
+    "outcome": "",
+    "stage_used": "",
+    "timestamp": "2026-08-27T13:11:15.194668+00:00"
   }
 ]
