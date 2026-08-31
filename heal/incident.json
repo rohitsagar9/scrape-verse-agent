@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "0fe43e05d8bec40a9e6e0db1524a7f17c87c224db4635884f2850f2a80ca64f4",
+  "changed_fields": [
+    "url",
+    "title",
+    "score"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?dqmEOhiOb4L0vTytdyIw\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49503601\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49503601' href='vote?id=49503601&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://unsung.aresluna.org/i-just-chose-words-carefully/\">“I just chose words carefully”</a><span class=\"sitebit comhead\"> (<a href=\"from?site=aresluna.org\"><span class=\"sitestr\">aresluna.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49503601\">743 points</span> by <a href=\"user?id=zdw\" class=\"hnuser\">zdw</a> <span class=\"age\" title=\"2026-08-30T22:49:48.000000Z\"><a href=\"item?id=49503601\">10 hours ago</a></span> <span id=\"unv_49503601\"></span> | <a href=\"hide?id=49503601&amp;goto=news\">hide</a> | <a href=\"item?id=49503601\">180&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49505219\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49505219' href='vote?id=49505219&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names\">P99 0 ms* autocomplete for 240M domain names</a><span class=\"sitebit comhead\"> (<a href=\"from?site=ruurtjan.com\"><span class=\"sitestr\">ruurtjan.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49505219\">103 points</span> by <a href=\"user?id=dbalatero\" class=\"hnuser\">dbalatero</a> <span class=\"age\" title=\"2026-08-31T03:20:33.000000Z\"><a href=\"item?id=49505219\">5 hours ago</a></span> <span id=\"unv_49505219\"></span> | <a href=\"hide?id=49505219&amp;goto=news\">hide</a> | <a href=\"item?id=49505219\">47&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49491791\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49491791' href='vote?id=49491791&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://people.kernel.org/monsieuricon/creepy-crawlies\">Creepy Crawlies</a><span class=\"sitebit comhead\"> (<a href=\"from?site=kernel.org\"><span class=\"sitestr\">kernel.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49491791\">1131 points</span> by <a href=\"user?id=zdw\" class=\"hnuser\">zdw</a> <span class=\"age\" title=\"2026-08-29T17:49:01.000000Z\"><a href=\"item?id=49491791\">19 hours ago</a></span> <span id=\"unv_49491791\"></span> | <a href=\"hide?id=49491791&amp;goto=news\">hide</a> | <a href=\"item?id=49491791\">560&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49481141\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49481141' href='vote?id=49481141&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://sandyuraz.com/blogs/tiny-cafe/\">My hobby of building miniatures and taking pretty pictures</a><span class=\"sitebit comhead\"> (<a href=\"from?site=sandyuraz.com\"><span class=\"sitestr\">sandyuraz.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49481141\">108 points</span> by <a href=\"user?id=thecsw\" class=\"hnuser\">thecsw</a> <span class=\"age\" title=\"2026-08-28T16:43:11.000000Z\"><a href=\"item?id=49481141\">5 hours ago</a></span> <span id=\"unv_49481141\"></span> | <a href=\"hide?id=49481141&amp;goto=news\">hide</a> | <a href=\"item?id=49481141\">17&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49485020\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49485020' href='vote?id=49485020&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/\">Highlighting My Code Based on ",
+  "validation_failures": [],
+  "timestamp": "2026-08-31T08:58:20.489479+00:00",
+  "per_field_hashes": {
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "e39936366d4349a0164d11fbe3378ba1d1321f274d4e736a76ba783a9d46dcf5",
+      "changed": true
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "e39936366d4349a0164d11fbe3378ba1d1321f274d4e736a76ba783a9d46dcf5",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "af8a422309ef40ac9991ddfdd5e496d6c2ad66dc34698df4b1fe8884da7dd799",
+      "changed": true
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    }
+  }
+}
