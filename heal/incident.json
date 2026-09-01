@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "6a4f0b76e54003d995d4e4baf6d5533a0751b0cdd301ed50205f44734c16a4b1",
+  "changed_fields": [
+    "score",
+    "title",
+    "url"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?dqmEOhiOb4L0vTytdyIw\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49517584\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49517584' href='vote?id=49517584&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.gpuworld.org/\">GPU World</a><span class=\"sitebit comhead\"> (<a href=\"from?site=gpuworld.org\"><span class=\"sitestr\">gpuworld.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49517584\">156 points</span> by <a href=\"user?id=simonpure\" class=\"hnuser\">simonpure</a> <span class=\"age\" title=\"2026-09-01T03:16:36.000000Z\"><a href=\"item?id=49517584\">3 hours ago</a></span> <span id=\"unv_49517584\"></span> | <a href=\"hide?id=49517584&amp;goto=news\">hide</a> | <a href=\"item?id=49517584\">68&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49517448\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49517448' href='vote?id=49517448&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://fastpotify.rocks/\">Fastpotify</a><span class=\"sitebit comhead\"> (<a href=\"from?site=fastpotify.rocks\"><span class=\"sitestr\">fastpotify.rocks</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49517448\">297 points</span> by <a href=\"user?id=nreece\" class=\"hnuser\">nreece</a> <span class=\"age\" title=\"2026-09-01T02:52:14.000000Z\"><a href=\"item?id=49517448\">5 hours ago</a></span> <span id=\"unv_49517448\"></span> | <a href=\"hide?id=49517448&amp;goto=news\">hide</a> | <a href=\"item?id=49517448\">134&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49516059\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49516059' href='vote?id=49516059&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://tmpout.sh/5/\">Tmp.0ut Volume 5</a><span class=\"sitebit comhead\"> (<a href=\"from?site=tmpout.sh\"><span class=\"sitestr\">tmpout.sh</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49516059\">21 points</span> by <a href=\"user?id=ghuntley\" class=\"hnuser\">ghuntley</a> <span class=\"age\" title=\"2026-08-31T23:26:08.000000Z\"><a href=\"item?id=49516059\">2 hours ago</a></span> <span id=\"unv_49516059\"></span> | <a href=\"hide?id=49516059&amp;goto=news\">hide</a> | <a href=\"item?id=49516059\">16&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49517624\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49517624' href='vote?id=49517624&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://restroomarchive.com\">Restroom Archive</a><span class=\"sitebit comhead\"> (<a href=\"from?site=restroomarchive.com\"><span class=\"sitestr\">restroomarchive.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49517624\">98 points</span> by <a href=\"user?id=jcalx\" class=\"hnuser\">jcalx</a> <span class=\"age\" title=\"2026-09-01T03:23:48.000000Z\"><a href=\"item?id=49517624\">4 hours ago</a></span> <span id=\"unv_49517624\"></span> | <a href=\"hide?id=49517624&amp;goto=news\">hide</a> | <a href=\"item?id=49517624\">22&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49511856\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49511856' href='vote?id=49511856&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/\">I turned my security cameras into an automatic bird identification system</a><span class=\"sitebit comhead\"> (<a href=\"from?site=jasontucker.blog\"><span class=\"sitestr\">jasontucker.bl",
+  "validation_failures": [],
+  "timestamp": "2026-09-01T08:01:37.971162+00:00",
+  "per_field_hashes": {
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "c020a7672ce7bcda615b93d544c9c86a6af738138879a0d2458a2d13b61fa388",
+      "changed": true
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "3b3023483da3e9f77c91b50dc129d598c26ef5e9f4e8efc733bbd8305a4bbfaf",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "3b3023483da3e9f77c91b50dc129d598c26ef5e9f4e8efc733bbd8305a4bbfaf",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    }
+  }
+}
