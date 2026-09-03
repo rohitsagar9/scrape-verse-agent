@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "fba8bf042d30dafc470dd4c25ac57832df46b64988be3f7b58508603b015e1f1",
+  "changed_fields": [
+    "url",
+    "score",
+    "title"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?PVKVP3QUgUHZEy3CHRMM\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49541256\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49541256' href='vote?id=49541256&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://developer.meta.com/ai/models/muse-spark/\">Muse Spark 1.3</a><span class=\"sitebit comhead\"> (<a href=\"from?site=meta.com\"><span class=\"sitestr\">meta.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49541256\">529 points</span> by <a href=\"user?id=bvaldivielso\" class=\"hnuser\">bvaldivielso</a> <span class=\"age\" title=\"2026-09-02T19:35:04.000000Z\"><a href=\"item?id=49541256\">11 hours ago</a></span> <span id=\"unv_49541256\"></span> | <a href=\"hide?id=49541256&amp;goto=news\">hide</a> | <a href=\"item?id=49541256\">359&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49537553\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49537553' href='vote?id=49537553&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\">Gemini 3.8 Flash and 3.8 Flash Cyber</a><span class=\"sitebit comhead\"> (<a href=\"from?site=blog.google\"><span class=\"sitestr\">blog.google</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49537553\">972 points</span> by <a href=\"user?id=bratao\" class=\"hnuser\">bratao</a> <span class=\"age\" title=\"2026-09-02T15:12:40.000000Z\"><a href=\"item?id=49537553\">16 hours ago</a></span> <span id=\"unv_49537553\"></span> | <a href=\"hide?id=49537553&amp;goto=news\">hide</a> | <a href=\"item?id=49537553\">550&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49511493\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49511493' href='vote?id=49511493&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://computer-museum.org/wp/\">The Computer Museum of America reclamation project</a><span class=\"sitebit comhead\"> (<a href=\"from?site=computer-museum.org\"><span class=\"sitestr\">computer-museum.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49511493\">24 points</span> by <a href=\"user?id=rbanffy\" class=\"hnuser\">rbanffy</a> <span class=\"age\" title=\"2026-08-31T16:15:37.000000Z\"><a href=\"item?id=49511493\">3 hours ago</a></span> <span id=\"unv_49511493\"></span> | <a href=\"hide?id=49511493&amp;goto=news\">hide</a> | <a href=\"item?id=49511493\">11&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49537131\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49537131' href='vote?id=49537131&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html\">Google avoids a breakup of its ad tech business</a><span class=\"sitebit comhead\"> (<a href=\"from?site=nytimes.com\"><span class=\"sitestr\">nytimes.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49537131\">355 points</span> by <a href=\"user?id=donohoe\" class=\"hnuser\">donohoe</a> <span class=\"age\" title=\"2026-09-02T14:46:16.000000Z\"><a href=\"item?id=49537131\">12 hours ago</a></span> <span id=\"unv_49537131\"></span> | <a href=\"hide?id=49537131&amp;goto=news\">hide</a> | <a href=\"item?id=49537131\">254&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49508405\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49508405' href='vote?id=49508405&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://en.wikipedia.org/wiki/Holden%27s_Lightnin",
+  "validation_failures": [],
+  "timestamp": "2026-09-03T07:25:52.655274+00:00",
+  "per_field_hashes": {
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "06c33f42c9cfe4bc0931997d4d6e57de2a0edb6fde5ad7c8017fe5ef5ec974e1",
+      "changed": true
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "531cfe13fec501eb77025bc6e8ddf11d8ae9c00a158a55d163c7f3f25a780a54",
+      "changed": true
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "06c33f42c9cfe4bc0931997d4d6e57de2a0edb6fde5ad7c8017fe5ef5ec974e1",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    }
+  }
+}
