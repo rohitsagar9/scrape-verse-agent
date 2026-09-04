@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "30aee287ea6ef55af57af0d9e7f598a827b758bf9bc2dc95c1bcf3f86fc2bef7",
+  "changed_fields": [
+    "score",
+    "url",
+    "title"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?PVKVP3QUgUHZEy3CHRMM\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49554643\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49554643' href='vote?id=49554643&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://openai.com/index/gpt-6-astra/\">GPT-6 Astra</a><span class=\"sitebit comhead\"> (<a href=\"from?site=openai.com\"><span class=\"sitestr\">openai.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49554643\">1672 points</span> by <a href=\"user?id=kibae\" class=\"hnuser\">kibae</a> <span class=\"age\" title=\"2026-09-03T18:41:05.000000Z\"><a href=\"item?id=49554643\">12 hours ago</a></span> <span id=\"unv_49554643\"></span> | <a href=\"hide?id=49554643&amp;goto=news\">hide</a> | <a href=\"item?id=49554643\">1458&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49550772\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49550772' href='vote?id=49550772&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://neil.fraser.name/news/2026/09/03/\">.name Termination</a><span class=\"sitebit comhead\"> (<a href=\"from?site=neil.fraser.name\"><span class=\"sitestr\">neil.fraser.name</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49550772\">1688 points</span> by <a href=\"user?id=pavel_lishin\" class=\"hnuser\">pavel_lishin</a> <span class=\"age\" title=\"2026-09-03T14:54:39.000000Z\"><a href=\"item?id=49550772\">16 hours ago</a></span> <span id=\"unv_49550772\"></span> | <a href=\"hide?id=49550772&amp;goto=news\">hide</a> | <a href=\"item?id=49550772\">418&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49554520\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49554520' href='vote?id=49554520&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://inference-docs.cerebras.ai/models/overview\">Qwen 3.8 27B available on Cerebras at 1500 tokens&#x2F;s</a><span class=\"sitebit comhead\"> (<a href=\"from?site=cerebras.ai\"><span class=\"sitestr\">cerebras.ai</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49554520\">526 points</span> by <a href=\"user?id=altertable\" class=\"hnuser\">altertable</a> <span class=\"age\" title=\"2026-09-03T18:32:13.000000Z\"><a href=\"item?id=49554520\">12 hours ago</a></span> <span id=\"unv_49554520\"></span> | <a href=\"hide?id=49554520&amp;goto=news\">hide</a> | <a href=\"item?id=49554520\">167&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49526453\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49526453' href='vote?id=49526453&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.youtube.com/watch?v=nM86DBOqgPM\">The largest electric aircraft just flew [video]</a><span class=\"sitebit comhead\"> (<a href=\"from?site=youtube.com\"><span class=\"sitestr\">youtube.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49526453\">283 points</span> by <a href=\"user?id=feb\" class=\"hnuser\">feb</a> <span class=\"age\" title=\"2026-09-01T19:02:34.000000Z\"><a href=\"item?id=49526453\">12 hours ago</a></span> <span id=\"unv_49526453\"></span> | <a href=\"hide?id=49526453&amp;goto=news\">hide</a> | <a href=\"item?id=49526453\">200&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49559522\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49559522' href='vote?id=49559522&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://gwern.net/xanadu\">Project Xanadu: Even More Hindsight (2025)</a><span class=\"sitebit comhead\"> (<a href=\"from?site=gwern.net\"><span class=\"si",
+  "validation_failures": [],
+  "timestamp": "2026-09-04T07:32:23.440588+00:00",
+  "per_field_hashes": {
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "e9583f0de9fd1ded7c9b0275d0f29ed85ae499af715076b5fd810b40817a944e",
+      "changed": true
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "6e30adc4e672bd7467c92617ba4b065e1453b4569adeb1687096cb07f1bd04d3",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "6e30adc4e672bd7467c92617ba4b065e1453b4569adeb1687096cb07f1bd04d3",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    }
+  }
+}
