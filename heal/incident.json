@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "ffde8486190087179ee1ba45375e86dd9becd60da085639336ef3392e4c171cd",
+  "changed_fields": [
+    "url",
+    "score",
+    "title"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?IpI1wptCrMt68Ugw9wRr\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49593563\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49593563' href='vote?id=49593563&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/\">Keep Our Servers Running</a><span class=\"sitebit comhead\"> (<a href=\"from?site=blog.archive.org\"><span class=\"sitestr\">blog.archive.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49593563\">312 points</span> by <a href=\"user?id=sonicrocketman\" class=\"hnuser\">sonicrocketman</a> <span class=\"age\" title=\"2026-09-07T03:29:51.000000Z\"><a href=\"item?id=49593563\">4 hours ago</a></span> <span id=\"unv_49593563\"></span> | <a href=\"hide?id=49593563&amp;goto=news\">hide</a> | <a href=\"item?id=49593563\">69&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49591876\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49591876' href='vote?id=49591876&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://austinhenley.com/blog/python1024.html\">Making a Python interpreter in 1024 bytes</a><span class=\"sitebit comhead\"> (<a href=\"from?site=austinhenley.com\"><span class=\"sitestr\">austinhenley.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49591876\">198 points</span> by <a href=\"user?id=azhenley\" class=\"hnuser\">azhenley</a> <span class=\"age\" title=\"2026-09-06T23:14:08.000000Z\"><a href=\"item?id=49591876\">8 hours ago</a></span> <span id=\"unv_49591876\"></span> | <a href=\"hide?id=49591876&amp;goto=news\">hide</a> | <a href=\"item?id=49591876\">74&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49577129\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49577129' href='vote?id=49577129&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"item?id=49577129\">Ask HN: Fable hacked my piano, can I release the results?</a></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49577129\">116 points</span> by <a href=\"user?id=jmpman\" class=\"hnuser\">jmpman</a> <span class=\"age\" title=\"2026-09-05T14:54:44.000000Z\"><a href=\"item?id=49577129\">6 hours ago</a></span> <span id=\"unv_49577129\"></span> | <a href=\"hide?id=49577129&amp;goto=news\">hide</a> | <a href=\"item?id=49577129\">61&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49590611\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49590611' href='vote?id=49590611&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://anubis.techaro.lol/blog/2026/anubis-wasm/\">It took a year to ship WebAssembly in Anubis</a><span class=\"sitebit comhead\"> (<a href=\"from?site=techaro.lol\"><span class=\"sitestr\">techaro.lol</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49590611\">243 points</span> by <a href=\"user?id=xena\" class=\"hnuser\">xena</a> <span class=\"age\" title=\"2026-09-06T20:32:38.000000Z\"><a href=\"item?id=49590611\">11 hours ago</a></span> <span id=\"unv_49590611\"></span> | <a href=\"hide?id=49590611&amp;goto=news\">hide</a> | <a href=\"item?id=49590611\">124&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49589914\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49589914' href='vote?id=49589914&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"item?id=49589914\">Ask HN: How do you manage skills files?</a></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_4",
+  "validation_failures": [],
+  "timestamp": "2026-09-07T07:36:07.473407+00:00",
+  "per_field_hashes": {
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "f3698443d2557576fee4557e2cd8c0c85ed2635f0165050d9f465db0c4a61cad",
+      "changed": true
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "3bdaf6dcdeab1251bf1fe51a57c9488beaf711b1a69a56c24cb0928f721ae291",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "f3698443d2557576fee4557e2cd8c0c85ed2635f0165050d9f465db0c4a61cad",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    }
+  }
+}
