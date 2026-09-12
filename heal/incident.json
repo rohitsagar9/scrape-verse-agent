@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "de002d6979d46ff4823da1b1901945891243a4976841ba07619a94f28c24035f",
+  "changed_fields": [
+    "score",
+    "title",
+    "url"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?e1A2H4cHxVYFl1HF3Snj\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49668386\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49668386' href='vote?id=49668386&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.autom.dev/blog/google-search-goto-links\">google.com&#x2F;goto: Google&#x27;s anti-scraping update</a><span class=\"sitebit comhead\"> (<a href=\"from?site=autom.dev\"><span class=\"sitestr\">autom.dev</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49668386\">330 points</span> by <a href=\"user?id=1e1a\" class=\"hnuser\">1e1a</a> <span class=\"age\" title=\"2026-09-12T03:14:20.000000Z\"><a href=\"item?id=49668386\">4 hours ago</a></span> <span id=\"unv_49668386\"></span> | <a href=\"hide?id=49668386&amp;goto=news\">hide</a> | <a href=\"item?id=49668386\">195&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49668706\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49668706' href='vote?id=49668706&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.claymath.org/news/navier-stokes-announcement/\">Navier-Stokes Announcement</a><span class=\"sitebit comhead\"> (<a href=\"from?site=claymath.org\"><span class=\"sitestr\">claymath.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49668706\">94 points</span> by <a href=\"user?id=rvz\" class=\"hnuser\">rvz</a> <span class=\"age\" title=\"2026-09-12T04:09:43.000000Z\"><a href=\"item?id=49668706\">3 hours ago</a></span> <span id=\"unv_49668706\"></span> | <a href=\"hide?id=49668706&amp;goto=news\">hide</a> | <a href=\"item?id=49668706\">43&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49662371\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49662371' href='vote?id=49662371&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://mathandai.org/\">A misalignment of AI in mathematics</a><span class=\"sitebit comhead\"> (<a href=\"from?site=mathandai.org\"><span class=\"sitestr\">mathandai.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49662371\">840 points</span> by <a href=\"user?id=meredydd\" class=\"hnuser\">meredydd</a> <span class=\"age\" title=\"2026-09-11T17:45:12.000000Z\"><a href=\"item?id=49662371\">13 hours ago</a></span> <span id=\"unv_49662371\"></span> | <a href=\"hide?id=49662371&amp;goto=news\">hide</a> | <a href=\"item?id=49662371\">828&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49668777\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49668777' href='vote?id=49668777&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.usenet-rewind.com/\">Usenet rewind archive search engine</a><span class=\"sitebit comhead\"> (<a href=\"from?site=usenet-rewind.com\"><span class=\"sitestr\">usenet-rewind.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49668777\">41 points</span> by <a href=\"user?id=cstadler1869\" class=\"hnuser\">cstadler1869</a> <span class=\"age\" title=\"2026-09-12T04:19:52.000000Z\"><a href=\"item?id=49668777\">3 hours ago</a></span> <span id=\"unv_49668777\"></span> | <a href=\"hide?id=49668777&amp;goto=news\">hide</a> | <a href=\"item?id=49668777\">6&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49662990\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49662990' href='vote?id=49662990&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://dayzlegame.com/blog/google-ads-bot-farm/\">I spent $220 on Google app ads and 60% of the installs were robots</a><span class=\"sitebit comhead\">",
+  "validation_failures": [],
+  "timestamp": "2026-09-12T07:23:53.627219+00:00",
+  "per_field_hashes": {
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "cda88662655b9f8f925683bd34dd936bf5a6b139e5b6d100a27ad2f128df482a",
+      "changed": true
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "66381037139caafbd43a9ec4adecd211b586598370e089728ad7f2984feb9eac",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "66381037139caafbd43a9ec4adecd211b586598370e089728ad7f2984feb9eac",
+      "changed": true
+    }
+  }
+}
