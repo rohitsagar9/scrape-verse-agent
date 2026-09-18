@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "e01bb887c07223d173cbdb858e5438559861eeefc7b55d475ab79f2184802d3c",
+  "changed_fields": [
+    "score",
+    "title",
+    "url"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?wCNqQJIYy0KyNICRHsdD\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49749656\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49749656' href='vote?id=49749656&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.hacktron.ai/blog/hacking-openai\">Hacking OpenAI</a><span class=\"sitebit comhead\"> (<a href=\"from?site=hacktron.ai\"><span class=\"sitestr\">hacktron.ai</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49749656\">297 points</span> by <a href=\"user?id=Handy-Man\" class=\"hnuser\">Handy-Man</a> <span class=\"age\" title=\"2026-09-18T02:47:24\"><a href=\"item?id=49749656\">4 hours ago</a></span> <span id=\"unv_49749656\"></span> | <a href=\"hide?id=49749656&amp;goto=news\">hide</a> | <a href=\"item?id=49749656\">115&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49750152\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49750152' href='vote?id=49750152&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://github.com/jemalloc/jemalloc/releases/tag/5.4.0\">Jemalloc 5.4.0</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/jemalloc\"><span class=\"sitestr\">github.com/jemalloc</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49750152\">53 points</span> by <a href=\"user?id=gkfasdfasdf\" class=\"hnuser\">gkfasdfasdf</a> <span class=\"age\" title=\"2026-09-18T04:20:24\"><a href=\"item?id=49750152\">3 hours ago</a></span> <span id=\"unv_49750152\"></span> | <a href=\"hide?id=49750152&amp;goto=news\">hide</a> | <a href=\"item?id=49750152\">12&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49745940\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49745940' href='vote?id=49745940&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://openai.com/index/astra-for-law/\">Astra for Law</a><span class=\"sitebit comhead\"> (<a href=\"from?site=openai.com\"><span class=\"sitestr\">openai.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49745940\">451 points</span> by <a href=\"user?id=vertigoruntime\" class=\"hnuser\">vertigoruntime</a> <span class=\"age\" title=\"2026-09-17T20:17:48\"><a href=\"item?id=49745940\">11 hours ago</a></span> <span id=\"unv_49745940\"></span> | <a href=\"hide?id=49745940&amp;goto=news\">hide</a> | <a href=\"item?id=49745940\">477&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49750094\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49750094' href='vote?id=49750094&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://fex-emu.com/Scourge-of-emulation/\">The scourge of x86 emulation</a><span class=\"sitebit comhead\"> (<a href=\"from?site=fex-emu.com\"><span class=\"sitestr\">fex-emu.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49750094\">68 points</span> by <a href=\"user?id=dagmx\" class=\"hnuser\">dagmx</a> <span class=\"age\" title=\"2026-09-18T04:09:48\"><a href=\"item?id=49750094\">3 hours ago</a></span> <span id=\"unv_49750094\"></span> | <a href=\"hide?id=49750094&amp;goto=news\">hide</a> | <a href=\"item?id=49750094\">3&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49746618\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49746618' href='vote?id=49746618&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://prismml.com/news/bonsai-2-27b\">Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint</a><span class=\"sitebit comhead\"> (<a href=\"from?site=prismml.com\"><span class=\"sitestr\">prismml.com</span></a>)</span",
+  "validation_failures": [],
+  "timestamp": "2026-09-18T07:40:18.099877+00:00",
+  "per_field_hashes": {
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "884fe7f806f9adc7469c3c4de821a84e03ad2a20dc40134128f35a850e644512",
+      "changed": true
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "f31d45ea9a2efc52abac5f1397d6050b4d187a7788595374327ff42f49535273",
+      "changed": true
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "f31d45ea9a2efc52abac5f1397d6050b4d187a7788595374327ff42f49535273",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    }
+  }
+}
