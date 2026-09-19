@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "52ba06428b5e59808eb1db6969c89af0183022ca3a9d3d81f45ccbd6c0177e73",
+  "changed_fields": [
+    "url",
+    "title",
+    "score"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?Ro13umrbtHiT536hT1ka\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49763697\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49763697' href='vote?id=49763697&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html\">Human brain is two separate organs, Stanford Medicine-led research finds</a><span class=\"sitebit comhead\"> (<a href=\"from?site=stanford.edu\"><span class=\"sitestr\">stanford.edu</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49763697\">114 points</span> by <a href=\"user?id=emigre\" class=\"hnuser\">emigre</a> <span class=\"age\" title=\"2026-09-19T05:48:50\"><a href=\"item?id=49763697\">1 hour ago</a></span> <span id=\"unv_49763697\"></span> | <a href=\"hide?id=49763697&amp;goto=news\">hide</a> | <a href=\"item?id=49763697\">30&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49763987\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49763987' href='vote?id=49763987&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio\">GPT-6 Astra Solves a WWI German Radio Cipher</a><span class=\"sitebit comhead\"> (<a href=\"from?site=prinzai.com\"><span class=\"sitestr\">prinzai.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49763987\">31 points</span> by <a href=\"user?id=nsoonhui\" class=\"hnuser\">nsoonhui</a> <span class=\"age\" title=\"2026-09-19T06:41:44\"><a href=\"item?id=49763987\">53 minutes ago</a></span> <span id=\"unv_49763987\"></span> | <a href=\"hide?id=49763987&amp;goto=news\">hide</a> | <a href=\"item?id=49763987\">5&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49763928\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49763928' href='vote?id=49763928&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/\">If math is more than proof, we need to better celebrate the rest of it</a><span class=\"sitebit comhead\"> (<a href=\"from?site=terrytao.wordpress.com\"><span class=\"sitestr\">terrytao.wordpress.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49763928\">31 points</span> by <a href=\"user?id=num42\" class=\"hnuser\">num42</a> <span class=\"age\" title=\"2026-09-19T06:28:02\"><a href=\"item?id=49763928\">1 hour ago</a></span> <span id=\"unv_49763928\"></span> | <a href=\"hide?id=49763928&amp;goto=news\">hide</a> | <a href=\"item?id=49763928\">10&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49763296\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49763296' href='vote?id=49763296&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://onionfutures.com/\">San Francisco Onion Futures Company</a><span class=\"sitebit comhead\"> (<a href=\"from?site=onionfutures.com\"><span class=\"sitestr\">onionfutures.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49763296\">155 points</span> by <a href=\"user?id=z-mach9\" class=\"hnuser\">z-mach9</a> <span class=\"age\" title=\"2026-09-19T04:23:30\"><a href=\"item?id=49763296\">3 hours ago</a></span> <span id=\"unv_49763296\"></span> | <a href=\"hide?id=49763296&amp;goto=news\">hide</a> | <a href=\"item?id=49763296\">55&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49758736\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49758736' href='vote?id=49758736&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titlel",
+  "validation_failures": [],
+  "timestamp": "2026-09-19T07:35:41.141886+00:00",
+  "per_field_hashes": {
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "d36a2770babf6f3b0ce6a414cf6159c614636e7157f3448b8e7324ad7fc3d6e0",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "d36a2770babf6f3b0ce6a414cf6159c614636e7157f3448b8e7324ad7fc3d6e0",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "6b58f99964e0d11b9996e6ab15e3872fd9cd3405819fc4f62a441c2ae093e0bd",
+      "changed": true
+    }
+  }
+}
