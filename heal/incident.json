@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "62ab461453ada2b44764e2df8c902817d3966055edc15d5afc5da5d1822ca881",
+  "changed_fields": [
+    "url",
+    "title",
+    "score"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?Ro13umrbtHiT536hT1ka\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49783495\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49783495' href='vote?id=49783495&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf\">Grim Fandango Puzzle Document (1996) [pdf]</a><span class=\"sitebit comhead\"> (<a href=\"from?site=jmac.org\"><span class=\"sitestr\">jmac.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49783495\">126 points</span> by <a href=\"user?id=kelseyfrog\" class=\"hnuser\">kelseyfrog</a> <span class=\"age\" title=\"2026-09-21T05:55:22\"><a href=\"item?id=49783495\">2 hours ago</a></span> <span id=\"unv_49783495\"></span> | <a href=\"hide?id=49783495&amp;goto=news\">hide</a> | <a href=\"item?id=49783495\">21&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49780797\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49780797' href='vote?id=49780797&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://agentexecutor.io\">AX – Google’s Open Agentic Orchestrator</a><span class=\"sitebit comhead\"> (<a href=\"from?site=agentexecutor.io\"><span class=\"sitestr\">agentexecutor.io</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49780797\">457 points</span> by <a href=\"user?id=blazarquasar\" class=\"hnuser\">blazarquasar</a> <span class=\"age\" title=\"2026-09-20T22:32:43\"><a href=\"item?id=49780797\">9 hours ago</a></span> <span id=\"unv_49780797\"></span> | <a href=\"hide?id=49780797&amp;goto=news\">hide</a> | <a href=\"item?id=49780797\">187&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49783999\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49783999' href='vote?id=49783999&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://github.com/jaredpalmer/kev/tree/main\">Kev: Tiny Jev-like family of decision models built on top of Qwen3.5</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/jaredpalmer\"><span class=\"sitestr\">github.com/jaredpalmer</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49783999\">29 points</span> by <a href=\"user?id=tosh\" class=\"hnuser\">tosh</a> <span class=\"age\" title=\"2026-09-21T07:11:55\"><a href=\"item?id=49783999\">1 hour ago</a></span> <span id=\"unv_49783999\"></span> | <a href=\"hide?id=49783999&amp;goto=news\">hide</a> | <a href=\"item?id=49783999\">14&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49778029\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49778029' href='vote?id=49778029&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say\">Samsung is expected to more than double output of its HBM4 and HBM4E DRAM</a><span class=\"sitebit comhead\"> (<a href=\"from?site=sedaily.com\"><span class=\"sitestr\">sedaily.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49778029\">455 points</span> by <a href=\"user?id=giuliomagnifico\" class=\"hnuser\">giuliomagnifico</a> <span class=\"age\" title=\"2026-09-20T17:38:50\"><a href=\"item?id=49778029\">14 hours ago</a></span> <span id=\"unv_49778029\"></span> | <a href=\"hide?id=49778029&amp;goto=news\">hide</a> | <a href=\"item?id=49778029\">294&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49780820\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49780820' href='vote?id=49780820&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://li",
+  "validation_failures": [],
+  "timestamp": "2026-09-21T08:15:48.267230+00:00",
+  "per_field_hashes": {
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "9980afb5e15583eeb732fa796c9df51c1a66a447354b1199d2f26030dbb88eb8",
+      "changed": true
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "9980afb5e15583eeb732fa796c9df51c1a66a447354b1199d2f26030dbb88eb8",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "a24166496bc609e8640ef224b2c4bcd89873684739a25e4df5bf16b61f188953",
+      "changed": true
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    }
+  }
+}
