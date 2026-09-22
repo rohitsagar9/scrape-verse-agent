@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "ecb76fde71042c5c02ee453220d1031e7386d2f47eefd5516e54e69534cfb7c3",
+  "changed_fields": [
+    "title",
+    "score",
+    "url"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?u2JqPj84fXMLRH1fjY0l\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49792730\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49792730' href='vote?id=49792730&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://mimo.xiaomi.com/mimo-v2-6\">MiMo v2.6</a><span class=\"sitebit comhead\"> (<a href=\"from?site=xiaomi.com\"><span class=\"sitestr\">xiaomi.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49792730\">840 points</span> by <a href=\"user?id=volf_\" class=\"hnuser\">volf_</a> <span class=\"age\" title=\"2026-09-21T20:12:12\"><a href=\"item?id=49792730\">11 hours ago</a></span> <span id=\"unv_49792730\"></span> | <a href=\"hide?id=49792730&amp;goto=news\">hide</a> | <a href=\"item?id=49792730\">374&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49797323\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49797323' href='vote?id=49797323&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://nathan.rs/posts/gzip-lm/\">Can gzip be a language model?</a><span class=\"sitebit comhead\"> (<a href=\"from?site=nathan.rs\"><span class=\"sitestr\">nathan.rs</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49797323\">43 points</span> by <a href=\"user?id=networked\" class=\"hnuser\">networked</a> <span class=\"age\" title=\"2026-09-22T06:08:39\"><a href=\"item?id=49797323\">1 hour ago</a></span> <span id=\"unv_49797323\"></span> | <a href=\"hide?id=49797323&amp;goto=news\">hide</a> | <a href=\"item?id=49797323\">5&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49794615\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49794615' href='vote?id=49794615&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://brand.io/article/spymarks/\">Spymarks, Not Watermarks</a><span class=\"sitebit comhead\"> (<a href=\"from?site=brand.io\"><span class=\"sitestr\">brand.io</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49794615\">380 points</span> by <a href=\"user?id=possibilistic\" class=\"hnuser\">possibilistic</a> <span class=\"age\" title=\"2026-09-21T23:03:49\"><a href=\"item?id=49794615\">8 hours ago</a></span> <span id=\"unv_49794615\"></span> | <a href=\"hide?id=49794615&amp;goto=news\">hide</a> | <a href=\"item?id=49794615\">90&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49792342\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49792342' href='vote?id=49792342&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://poloclub.github.io/transformer-explainer/\">Transformers Explained Visually</a><span class=\"sitebit comhead\"> (<a href=\"from?site=poloclub.github.io\"><span class=\"sitestr\">poloclub.github.io</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49792342\">362 points</span> by <a href=\"user?id=aray07\" class=\"hnuser\">aray07</a> <span class=\"age\" title=\"2026-09-21T19:43:49\"><a href=\"item?id=49792342\">12 hours ago</a></span> <span id=\"unv_49792342\"></span> | <a href=\"hide?id=49792342&amp;goto=news\">hide</a> | <a href=\"item?id=49792342\">59&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49787726\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49787726' href='vote?id=49787726&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://alicegg.tech/2026/09/21/attention\">Attention is all you have</a><span class=\"sitebit comhead\"> (<a href=\"from?site=alicegg.tech\"><span class=\"sitestr\">alicegg.tech</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><",
+  "validation_failures": [],
+  "timestamp": "2026-09-22T08:00:09.351520+00:00",
+  "per_field_hashes": {
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "8f7519e897f7a704a2b64f418331dd8ba2a990fad3dbffbd0288a9a897e7f310",
+      "changed": true
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "b3fa46f5f8187bf4dc7ae741069cae82062557b9c36fd7ed0c4b10bcd10888cc",
+      "changed": true
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "8f7519e897f7a704a2b64f418331dd8ba2a990fad3dbffbd0288a9a897e7f310",
+      "changed": true
+    }
+  }
+}
