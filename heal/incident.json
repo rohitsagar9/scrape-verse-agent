@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "5d59cc5017d50a520e9e183649c7528688b26d0cda5613a8e718ceaea49233b4",
+  "changed_fields": [
+    "url",
+    "score",
+    "title"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?Ju8x8fgivebV6zwksZYr\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49849985\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49849985' href='vote?id=49849985&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://swarmtraces.org/\">Revealing the details of how OpenAI agents hacked Hugging Face</a><span class=\"sitebit comhead\"> (<a href=\"from?site=swarmtraces.org\"><span class=\"sitestr\">swarmtraces.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49849985\">441 points</span> by <a href=\"user?id=specked-citrus\" class=\"hnuser\">specked-citrus</a> <span class=\"age\" title=\"2026-09-25T21:09:27\"><a href=\"item?id=49849985\">10 hours ago</a></span> <span id=\"unv_49849985\"></span> | <a href=\"hide?id=49849985&amp;goto=news\">hide</a> | <a href=\"item?id=49849985\">273&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49853175\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49853175' href='vote?id=49853175&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html\">A single function Jev-like wrapper for LLMs, including vision models</a><span class=\"sitebit comhead\"> (<a href=\"from?site=allanrbo.blogspot.com\"><span class=\"sitestr\">allanrbo.blogspot.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49853175\">53 points</span> by <a href=\"user?id=allanrbo\" class=\"hnuser\">allanrbo</a> <span class=\"age\" title=\"2026-09-26T04:20:58\"><a href=\"item?id=49853175\">3 hours ago</a></span> <span id=\"unv_49853175\"></span> | <a href=\"hide?id=49853175&amp;goto=news\">hide</a> | <a href=\"item?id=49853175\">7&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49840054\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49840054' href='vote?id=49840054&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html\">Plan mode is dead</a><span class=\"sitebit comhead\"> (<a href=\"from?site=aymannadeem.com\"><span class=\"sitestr\">aymannadeem.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49840054\">278 points</span> by <a href=\"user?id=jmvldz\" class=\"hnuser\">jmvldz</a> <span class=\"age\" title=\"2026-09-25T03:59:11\"><a href=\"item?id=49840054\">10 hours ago</a></span> <span id=\"unv_49840054\"></span> | <a href=\"hide?id=49840054&amp;goto=news\">hide</a> | <a href=\"item?id=49840054\">255&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49848269\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49848269' href='vote?id=49848269&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://ollaya.dev/\">Ollaya – Ollama for open-source, Jev-style decision models</a><span class=\"sitebit comhead\"> (<a href=\"from?site=ollaya.dev\"><span class=\"sitestr\">ollaya.dev</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49848269\">426 points</span> by <a href=\"user?id=Ardakilic\" class=\"hnuser\">Ardakilic</a> <span class=\"age\" title=\"2026-09-25T18:33:50\"><a href=\"item?id=49848269\">13 hours ago</a></span> <span id=\"unv_49848269\"></span> | <a href=\"hide?id=49848269&amp;goto=news\">hide</a> | <a href=\"item?id=49848269\">114&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49845172\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49845172' href='vote?id=49845172&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://jev-pokemon.v",
+  "validation_failures": [],
+  "timestamp": "2026-09-26T08:03:13.879422+00:00",
+  "per_field_hashes": {
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "c633230020c6d7f0affda3dcf73b508790bdda2e897b7ac3bb4dc11c2516a719",
+      "changed": true
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "10a63d5787f15fcdd8b535e0a7595e7bf90f8072c63f8a7c08d07eab6c66f739",
+      "changed": true
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "c633230020c6d7f0affda3dcf73b508790bdda2e897b7ac3bb4dc11c2516a719",
+      "changed": true
+    }
+  }
+}
