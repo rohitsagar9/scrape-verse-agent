@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "321b92570a9009bd2c738082d73f8971b0b6c047f8d25d241295aae1e5fc0989",
+  "changed_fields": [
+    "url",
+    "title",
+    "score"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?p9DVimPa4KE9hyScgN6l\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49905487\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49905487' href='vote?id=49905487&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\">September 2026: The world today, as seen by one Polish guy</a><span class=\"sitebit comhead\"> (<a href=\"from?site=tomwojcik.com\"><span class=\"sitestr\">tomwojcik.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49905487\">118 points</span> by <a href=\"user?id=marjancek\" class=\"hnuser\">marjancek</a> <span class=\"age\" title=\"2026-09-30T07:12:31\"><a href=\"item?id=49905487\">1 hour ago</a></span> <span id=\"unv_49905487\"></span> | <a href=\"hide?id=49905487&amp;goto=news\">hide</a> | <a href=\"item?id=49905487\">24&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49901736\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49901736' href='vote?id=49901736&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://github.com/ninjahawk/livenerf\">Livenerf: Has Opus 5.5 been nerfed yet?</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/ninjahawk\"><span class=\"sitestr\">github.com/ninjahawk</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49901736\">584 points</span> by <a href=\"user?id=bryan0\" class=\"hnuser\">bryan0</a> <span class=\"age\" title=\"2026-09-29T22:36:14\"><a href=\"item?id=49901736\">10 hours ago</a></span> <span id=\"unv_49901736\"></span> | <a href=\"hide?id=49901736&amp;goto=news\">hide</a> | <a href=\"item?id=49901736\">245&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49887343\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49887343' href='vote?id=49887343&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://exyr.org/2026/solving-factorio-quality/\">Solving Factorio Quality</a><span class=\"sitebit comhead\"> (<a href=\"from?site=exyr.org\"><span class=\"sitestr\">exyr.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49887343\">58 points</span> by <a href=\"user?id=laurenth\" class=\"hnuser\">laurenth</a> <span class=\"age\" title=\"2026-09-29T02:27:54\"><a href=\"item?id=49887343\">3 hours ago</a></span> <span id=\"unv_49887343\"></span> | <a href=\"hide?id=49887343&amp;goto=news\">hide</a> | <a href=\"item?id=49887343\">22&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49896604\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49896604' href='vote?id=49896604&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://openai.com/index/introducing-dots/\">Dots: Always-on agents</a><span class=\"sitebit comhead\"> (<a href=\"from?site=openai.com\"><span class=\"sitestr\">openai.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49896604\">605 points</span> by <a href=\"user?id=alvis\" class=\"hnuser\">alvis</a> <span class=\"age\" title=\"2026-09-29T17:07:57\"><a href=\"item?id=49896604\">15 hours ago</a></span> <span id=\"unv_49896604\"></span> | <a href=\"hide?id=49896604&amp;goto=news\">hide</a> | <a href=\"item?id=49896604\">464&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49899090\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49899090' href='vote?id=49899090&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/\">U.S. postal ",
+  "validation_failures": [],
+  "timestamp": "2026-09-30T09:04:36.501302+00:00",
+  "per_field_hashes": {
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "b432453e737203875cd63c740f03476e44b45d84cc793094f20dea2720e043e4",
+      "changed": true
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "b432453e737203875cd63c740f03476e44b45d84cc793094f20dea2720e043e4",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "07c212c324e216f3044c9171a33f9a7ae0eeff2393d80c654d59074eeba48874",
+      "changed": true
+    }
+  }
+}
