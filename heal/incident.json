@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "395fa7829171db83e21c458bf21bc6371de181bc6c872232ea9ea82ac6594ef8",
+  "changed_fields": [
+    "url",
+    "title",
+    "score"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?js7ZHmmYC9ZEXQYX3bYv\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49926069\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49926069' href='vote?id=49926069&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://earendil.com/posts/pi-1-0/\">Pi 1.0</a><span class=\"sitebit comhead\"> (<a href=\"from?site=earendil.com\"><span class=\"sitestr\">earendil.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49926069\">1244 points</span> by <a href=\"user?id=sergiotapia\" class=\"hnuser\">sergiotapia</a> <span class=\"age\" title=\"2026-10-01T19:33:05\"><a href=\"item?id=49926069\">13 hours ago</a></span> <span id=\"unv_49926069\"></span> | <a href=\"hide?id=49926069&amp;goto=news\">hide</a> | <a href=\"item?id=49926069\">386&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49930047\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49930047' href='vote?id=49930047&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://inrng.com/2026/10/shimano-bicycle-museum/\">Shimano Bicycle Museum Review</a><span class=\"sitebit comhead\"> (<a href=\"from?site=inrng.com\"><span class=\"sitestr\">inrng.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49930047\">85 points</span> by <a href=\"user?id=pietroppeter\" class=\"hnuser\">pietroppeter</a> <span class=\"age\" title=\"2026-10-02T05:12:58\"><a href=\"item?id=49930047\">3 hours ago</a></span> <span id=\"unv_49930047\"></span> | <a href=\"hide?id=49930047&amp;goto=news\">hide</a> | <a href=\"item?id=49930047\">10&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49929113\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49929113' href='vote?id=49929113&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\">How Singapore&#x27;s government-run dating service works</a><span class=\"sitebit comhead\"> (<a href=\"from?site=singapore-samizdat.com\"><span class=\"sitestr\">singapore-samizdat.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49929113\">143 points</span> by <a href=\"user?id=danielfoster\" class=\"hnuser\">danielfoster</a> <span class=\"age\" title=\"2026-10-02T01:56:52\"><a href=\"item?id=49929113\">7 hours ago</a></span> <span id=\"unv_49929113\"></span> | <a href=\"hide?id=49929113&amp;goto=news\">hide</a> | <a href=\"item?id=49929113\">86&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49928121\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49928121' href='vote?id=49928121&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://lwn.net/Articles/1097401/\">Several vulnerabilities have been discovered in the Linux kernel</a><span class=\"sitebit comhead\"> (<a href=\"from?site=lwn.net\"><span class=\"sitestr\">lwn.net</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49928121\">287 points</span> by <a href=\"user?id=luispa\" class=\"hnuser\">luispa</a> <span class=\"age\" title=\"2026-10-01T23:10:44\"><a href=\"item?id=49928121\">9 hours ago</a></span> <span id=\"unv_49928121\"></span> | <a href=\"hide?id=49928121&amp;goto=news\">hide</a> | <a href=\"item?id=49928121\">202&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49929489\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49929489' href='vote?id=49929489&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.deepseek.com/en/harness/\">DeepSeek Harness Desktop for macOS and Windows</a><span cla",
+  "validation_failures": [],
+  "timestamp": "2026-10-02T09:05:01.400586+00:00",
+  "per_field_hashes": {
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "5f07123017a3aaa66183b0bffaad4e748dd652f873830146b9515947673d1459",
+      "changed": true
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "5f07123017a3aaa66183b0bffaad4e748dd652f873830146b9515947673d1459",
+      "changed": true
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "219dfc9a19f8e9fa1673218a37b69334a23c72a55421d9c8826d50d63be329f0",
+      "changed": true
+    }
+  }
+}
