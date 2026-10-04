@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "1b384f138451e6b1653db532829a9bcaad802c3a46a0a69dad1f330ce15d462b",
+  "changed_fields": [
+    "url",
+    "title",
+    "score"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?js7ZHmmYC9ZEXQYX3bYv\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49950554\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49950554' href='vote?id=49950554&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/\">Why don&#x27;t more developers “use the platform”?</a><span class=\"sitebit comhead\"> (<a href=\"from?site=nolanlawson.com\"><span class=\"sitestr\">nolanlawson.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49950554\">117 points</span> by <a href=\"user?id=vinhnx\" class=\"hnuser\">vinhnx</a> <span class=\"age\" title=\"2026-10-04T04:10:47\"><a href=\"item?id=49950554\">4 hours ago</a></span> <span id=\"unv_49950554\"></span> | <a href=\"hide?id=49950554&amp;goto=news\">hide</a> | <a href=\"item?id=49950554\">79&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49949438\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49949438' href='vote?id=49949438&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"item?id=49949438\">Tell HN: Bob Cringely has died</a></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49949438\">401 points</span> by <a href=\"user?id=paveworld\" class=\"hnuser\">paveworld</a> <span class=\"age\" title=\"2026-10-04T00:50:52\"><a href=\"item?id=49949438\">8 hours ago</a></span> <span id=\"unv_49949438\"></span> | <a href=\"hide?id=49949438&amp;goto=news\">hide</a> | <a href=\"item?id=49949438\">81&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49910462\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49910462' href='vote?id=49910462&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician\">So you think you could be an electrician?</a><span class=\"sitebit comhead\"> (<a href=\"from?site=asteriskmag.com\"><span class=\"sitestr\">asteriskmag.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49910462\">198 points</span> by <a href=\"user?id=zdw\" class=\"hnuser\">zdw</a> <span class=\"age\" title=\"2026-09-30T15:43:27\"><a href=\"item?id=49910462\">9 hours ago</a></span> <span id=\"unv_49910462\"></span> | <a href=\"hide?id=49910462&amp;goto=news\">hide</a> | <a href=\"item?id=49910462\">131&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49946895\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49946895' href='vote?id=49946895&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU\">The work by Valve&#x27;s Timur Kristóf on improving old AMD GPUs on Linux</a><span class=\"sitebit comhead\"> (<a href=\"from?site=phoronix.com\"><span class=\"sitestr\">phoronix.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49946895\">265 points</span> by <a href=\"user?id=speckx\" class=\"hnuser\">speckx</a> <span class=\"age\" title=\"2026-10-03T19:14:48\"><a href=\"item?id=49946895\">13 hours ago</a></span> <span id=\"unv_49946895\"></span> | <a href=\"hide?id=49946895&amp;goto=news\">hide</a> | <a href=\"item?id=49946895\">39&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49946355\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49946355' href='vote?id=49946355&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict\">Treachery in the Rodin Museum 3D scan verdict</a><span class=\"sitebit comhead\"> (<a href=\"from?site=cosmowenman.substack.com\"><",
+  "validation_failures": [],
+  "timestamp": "2026-10-04T08:54:12.567338+00:00",
+  "per_field_hashes": {
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "243b32aab7e18f1783a223cf82797fa1952fdda3acddc06dbe7de50ca33b0942",
+      "changed": true
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "243b32aab7e18f1783a223cf82797fa1952fdda3acddc06dbe7de50ca33b0942",
+      "changed": true
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "2d3ae03ee97bbc84e6277a14db770b3529b2ea59c00da0a6ddeb3fb2d50b3a9a",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    }
+  }
+}
