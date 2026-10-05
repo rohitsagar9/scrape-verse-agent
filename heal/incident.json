@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "958565e2bd989abbe0ab0e5292cd7aaef45d94f853a12f18b46dcb463f0ddbfc",
+  "changed_fields": [
+    "score",
+    "url",
+    "title"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?OdlWw8p09bbN1XdjJY81\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49961861\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49961861' href='vote?id=49961861&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\">Huawei and Qualcomm Announce Broad Patent License Agreement</a><span class=\"sitebit comhead\"> (<a href=\"from?site=huawei.com\"><span class=\"sitestr\">huawei.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49961861\">49 points</span> by <a href=\"user?id=0xedb\" class=\"hnuser\">0xedb</a> <span class=\"age\" title=\"2026-10-05T07:46:10\"><a href=\"item?id=49961861\">1 hour ago</a></span> <span id=\"unv_49961861\"></span> | <a href=\"hide?id=49961861&amp;goto=news\">hide</a> | <a href=\"item?id=49961861\">30&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49962012\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49962012' href='vote?id=49962012&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger\">Denmark Data Breach Exposes 8.8M People&#x27;s Personal Data</a><span class=\"sitebit comhead\"> (<a href=\"from?site=cpr.dk\"><span class=\"sitestr\">cpr.dk</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49962012\">50 points</span> by <a href=\"user?id=clan\" class=\"hnuser\">clan</a> <span class=\"age\" title=\"2026-10-05T08:09:36\"><a href=\"item?id=49962012\">1 hour ago</a></span> <span id=\"unv_49962012\"></span> | <a href=\"hide?id=49962012&amp;goto=news\">hide</a> | <a href=\"item?id=49962012\">16&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49953495\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49953495' href='vote?id=49953495&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://github.com/Niko1221/Strata\">Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T&#x2F;s</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/niko1221\"><span class=\"sitestr\">github.com/niko1221</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49953495\">800 points</span> by <a href=\"user?id=snehesht\" class=\"hnuser\">snehesht</a> <span class=\"age\" title=\"2026-10-04T12:51:53\"><a href=\"item?id=49953495\">20 hours ago</a></span> <span id=\"unv_49953495\"></span> | <a href=\"hide?id=49953495&amp;goto=news\">hide</a> | <a href=\"item?id=49953495\">355&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49957812\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49957812' href='vote?id=49957812&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/\">In the wake of Tippett Studios’ closure, a digital archive appears online</a><span class=\"sitebit comhead\"> (<a href=\"from?site=filmstories.co.uk\"><span class=\"sitestr\">filmstories.co.uk</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49957812\">133 points</span> by <a href=\"user?id=rdmuser\" class=\"hnuser\">rdmuser</a> <span class=\"age\" title=\"2026-10-04T21:01:28\"><a href=\"item?id=49957812\">10 hours ago</a></span> <span id=\"unv_49957812\"></span> | <a href=\"hide?id=49957812&amp;goto=news\">hide</a> | <a href=\"item?id=49957812\">17&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49956681\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49956681' href='vote?id=49956681&amp;how=up&amp;goto=news'><di",
+  "validation_failures": [],
+  "timestamp": "2026-10-05T09:40:54.004854+00:00",
+  "per_field_hashes": {
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "d018109704ac213ff6c4948258e1070b977e250de5a88febbcbb3103a8f86d2c",
+      "changed": true
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "666aed18e3bdb43f0473577d2e11442d976a8b4c117e384646b9562e3bba96f5",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "666aed18e3bdb43f0473577d2e11442d976a8b4c117e384646b9562e3bba96f5",
+      "changed": true
+    }
+  }
+}
