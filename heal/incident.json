@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "9ecb0699a7d1576b4cf36620b258b6cea00924e6c4cda3e54cf4be3f8d4fd00d",
+  "changed_fields": [
+    "score",
+    "url",
+    "title"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?OdlWw8p09bbN1XdjJY81\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"49969183\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49969183' href='vote?id=49969183&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://reflection.ai/blog/introducing-beam\">Beam: Reflection&#x27;s 501B open-weight model</a><span class=\"sitebit comhead\"> (<a href=\"from?site=reflection.ai\"><span class=\"sitestr\">reflection.ai</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49969183\">444 points</span> by <a href=\"user?id=Philpax\" class=\"hnuser\">Philpax</a> <span class=\"age\" title=\"2026-10-05T19:16:35\"><a href=\"item?id=49969183\">14 hours ago</a></span> <span id=\"unv_49969183\"></span> | <a href=\"hide?id=49969183&amp;goto=news\">hide</a> | <a href=\"item?id=49969183\">143&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49951155\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49951155' href='vote?id=49951155&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://liquidbrain.net/blog/accountability-and-joy/\">Accountability mechanisms can be joyful (2024)</a><span class=\"sitebit comhead\"> (<a href=\"from?site=liquidbrain.net\"><span class=\"sitestr\">liquidbrain.net</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49951155\">33 points</span> by <a href=\"user?id=luu\" class=\"hnuser\">luu</a> <span class=\"age\" title=\"2026-10-04T06:15:17\"><a href=\"item?id=49951155\">4 hours ago</a></span> <span id=\"unv_49951155\"></span> | <a href=\"hide?id=49951155&amp;goto=news\">hide</a> | <a href=\"item?id=49951155\">8&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49946577\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49946577' href='vote?id=49946577&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://ephemeral.cx/2026/07/protect-your-friends-and-loved-ones/\">Protect Your Friends and Loved Ones</a><span class=\"sitebit comhead\"> (<a href=\"from?site=ephemeral.cx\"><span class=\"sitestr\">ephemeral.cx</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49946577\">26 points</span> by <a href=\"user?id=speckx\" class=\"hnuser\">speckx</a> <span class=\"age\" title=\"2026-10-03T18:32:09\"><a href=\"item?id=49946577\">3 hours ago</a></span> <span id=\"unv_49946577\"></span> | <a href=\"hide?id=49946577&amp;goto=news\">hide</a> | <a href=\"item?id=49946577\">5&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49971230\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49971230' href='vote?id=49971230&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://flattensf.com/\">Find the flattest route between any two points in SF</a><span class=\"sitebit comhead\"> (<a href=\"from?site=flattensf.com\"><span class=\"sitestr\">flattensf.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_49971230\">196 points</span> by <a href=\"user?id=ishan0102\" class=\"hnuser\">ishan0102</a> <span class=\"age\" title=\"2026-10-05T21:40:50\"><a href=\"item?id=49971230\">11 hours ago</a></span> <span id=\"unv_49971230\"></span> | <a href=\"hide?id=49971230&amp;goto=news\">hide</a> | <a href=\"item?id=49971230\">70&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"49970871\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_49970871' href='vote?id=49970871&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://qlabs.sh/research/dust\">Dust: Pretraining Transformers Without Backpropagation</a><span class=\"sitebit comhead\"> (<a href=\"fro",
+  "validation_failures": [],
+  "timestamp": "2026-10-06T09:29:46.644219+00:00",
+  "per_field_hashes": {
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "7b93bed5573f549f49bceb17b0d3f4d7caebd814850b6b61d6f5e74c41cdb30b",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "a65ce38c4f947c9359357776515a29f54e42a5386664d07c8cc20b28319053a7",
+      "changed": true
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "a65ce38c4f947c9359357776515a29f54e42a5386664d07c8cc20b28319053a7",
+      "changed": true
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    }
+  }
+}
