@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "929fecb3226301de36dc7b0f1c359870d4f1590384e8ab7f6aabea48dc0a861a",
+  "changed_fields": [
+    "url",
+    "title",
+    "score"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?wfQ75QS9UtdHcfDAqQsg\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50028275\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50028275' href='vote?id=50028275&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://rea.tools/\">REA Reverse – Engineer Anything</a><span class=\"sitebit comhead\"> (<a href=\"from?site=rea.tools\"><span class=\"sitestr\">rea.tools</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50028275\">389 points</span> by <a href=\"user?id=modinfo\" class=\"hnuser\">modinfo</a> <span class=\"age\" title=\"2026-10-10T00:37:07\"><a href=\"item?id=50028275\">8 hours ago</a></span> <span id=\"unv_50028275\"></span> | <a href=\"hide?id=50028275&amp;goto=news\">hide</a> | <a href=\"item?id=50028275\">145&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50029982\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50029982' href='vote?id=50029982&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://wiki.cateat.fish/art:computers_cannot_make_decisions\">Computers Cannot Make Decisions</a><span class=\"sitebit comhead\"> (<a href=\"from?site=cateat.fish\"><span class=\"sitestr\">cateat.fish</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50029982\">54 points</span> by <a href=\"user?id=heavensteeth\" class=\"hnuser\">heavensteeth</a> <span class=\"age\" title=\"2026-10-10T05:47:46\"><a href=\"item?id=50029982\">3 hours ago</a></span> <span id=\"unv_50029982\"></span> | <a href=\"hide?id=50029982&amp;goto=news\">hide</a> | <a href=\"item?id=50029982\">36&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50029123\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50029123' href='vote?id=50029123&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/\">Telegram Desktop vulnerability allowed any user&#x27;s file to be stolen</a><span class=\"sitebit comhead\"> (<a href=\"from?site=beaksec.github.io\"><span class=\"sitestr\">beaksec.github.io</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50029123\">145 points</span> by <a href=\"user?id=g-b-r\" class=\"hnuser\">g-b-r</a> <span class=\"age\" title=\"2026-10-10T03:02:47\"><a href=\"item?id=50029123\">6 hours ago</a></span> <span id=\"unv_50029123\"></span> | <a href=\"hide?id=50029123&amp;goto=news\">hide</a> | <a href=\"item?id=50029123\">63&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50019911\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50019911' href='vote?id=50019911&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://deno.com/blog/cloudflare\">Cloudflare acquires Deno</a><span class=\"sitebit comhead\"> (<a href=\"from?site=deno.com\"><span class=\"sitestr\">deno.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50019911\">1212 points</span> by <a href=\"user?id=ilreb\" class=\"hnuser\">ilreb</a> <span class=\"age\" title=\"2026-10-09T13:03:48\"><a href=\"item?id=50019911\">20 hours ago</a></span> <span id=\"unv_50019911\"></span> | <a href=\"hide?id=50019911&amp;goto=news\">hide</a> | <a href=\"item?id=50019911\">614&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50022292\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50022292' href='vote?id=50022292&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://minesweeper.mikelacher.com/\">Triple-A Minesweeper</a><span class=\"sitebit comhead\"> (<a href=\"from?site=mikelacher.com\"><span class=\"sitestr\">mikel",
+  "validation_failures": [],
+  "timestamp": "2026-10-10T09:09:24.611462+00:00",
+  "per_field_hashes": {
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "929d162fd503856419a0efd1f5302791d0d953a5950e437644b9f234209e6c25",
+      "changed": true
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "929d162fd503856419a0efd1f5302791d0d953a5950e437644b9f234209e6c25",
+      "changed": true
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "201dd6dcbe5e20b5b5cbbe92af21993d684bc3034d0f84ca4d6688612ed3bfd2",
+      "changed": true
+    }
+  }
+}
