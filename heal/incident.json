@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "c024b16f901108782f572f15251db12f995b41d74bc2f85878c446d9fa7cd53d",
+  "changed_fields": [
+    "score",
+    "url",
+    "title"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?fngDQQOy8vzqga2u3lkC\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50138531\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50138531' href='vote?id=50138531&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://api-docs.deepseek.com/guides/search/\">DeepSeek search and fetch – $0.75 per 1000 successful requests</a><span class=\"sitebit comhead\"> (<a href=\"from?site=deepseek.com\"><span class=\"sitestr\">deepseek.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50138531\">24 points</span> by <a href=\"user?id=fagnerbrack\" class=\"hnuser\">fagnerbrack</a> <span class=\"age\" title=\"2026-10-18T06:50:36\"><a href=\"item?id=50138531\">37 minutes ago</a></span> <span id=\"unv_50138531\"></span> | <a href=\"hide?id=50138531&amp;goto=news\">hide</a> | <a href=\"item?id=50138531\">8&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50137950\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50137950' href='vote?id=50137950&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://sphinx-six-theta.vercel.app/\">Show HN: Sphinx – A hook that quizzes you on your AI&#x27;s code before shipping</a><span class=\"sitebit comhead\"> (<a href=\"from?site=sphinx-six-theta.vercel.app\"><span class=\"sitestr\">sphinx-six-theta.vercel.app</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50137950\">86 points</span> by <a href=\"user?id=critiquebrowser\" class=\"hnuser\">critiquebrowser</a> <span class=\"age\" title=\"2026-10-18T04:33:49\"><a href=\"item?id=50137950\">2 hours ago</a></span> <span id=\"unv_50137950\"></span> | <a href=\"hide?id=50137950&amp;goto=news\">hide</a> | <a href=\"item?id=50137950\">24&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50137620\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50137620' href='vote?id=50137620&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything\">How the Elizabeth Holmes documentary “You Can See Everything” is deceiving</a><span class=\"sitebit comhead\"> (<a href=\"from?site=readtheprofile.com\"><span class=\"sitestr\">readtheprofile.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50137620\">82 points</span> by <a href=\"user?id=MaysonL\" class=\"hnuser\">MaysonL</a> <span class=\"age\" title=\"2026-10-18T03:19:49\"><a href=\"item?id=50137620\">4 hours ago</a></span> <span id=\"unv_50137620\"></span> | <a href=\"hide?id=50137620&amp;goto=news\">hide</a> | <a href=\"item?id=50137620\">76&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50138087\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50138087' href='vote?id=50138087&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685\">Matthew Prince on why Cloudflare offers a free version and always will (2016)</a><span class=\"sitebit comhead\"> (<a href=\"from?site=webmasters.stackexchange.com\"><span class=\"sitestr\">webmasters.stackexchange.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50138087\">59 points</span> by <a href=\"user?id=thatslast\" class=\"hnuser\">thatslast</a> <span class=\"age\" title=\"2026-10-18T05:09:14\"><a href=\"item?id=50138087\">2 hours ago</a></span> <span id=\"unv_50138087\"></span> | <a href=\"hide?id=50138087&amp;goto=news\">hide</a> | <a href=\"item?id=50138087\">37&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50126253\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><cente",
+  "validation_failures": [],
+  "timestamp": "2026-10-18T07:28:23.688074+00:00",
+  "per_field_hashes": {
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "f45171949041af8e432f7763d767ec871362c2b28a144c5f86c6e314e670abf5",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "2f0889a31bae55f95133a59d0ba1823d4c0c9beb9330b1340cada81d73195dd7",
+      "changed": true
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "2f0889a31bae55f95133a59d0ba1823d4c0c9beb9330b1340cada81d73195dd7",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    }
+  }
+}
