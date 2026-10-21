@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "169964cf46b431e594fa1eba35c59f5a046e33df70fa65d4485208615169db9a",
+  "changed_fields": [
+    "title",
+    "url",
+    "score"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?Jfojx8j4VrRxvfxSHAtx\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50175070\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50175070' href='vote?id=50175070&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.joshwcomeau.com/css/interop-2027/\">The Future of CSS</a><span class=\"sitebit comhead\"> (<a href=\"from?site=joshwcomeau.com\"><span class=\"sitestr\">joshwcomeau.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50175070\">293 points</span> by <a href=\"user?id=soheilpro\" class=\"hnuser\">soheilpro</a> <span class=\"age\" title=\"2026-10-21T01:47:28\"><a href=\"item?id=50175070\">6 hours ago</a></span> <span id=\"unv_50175070\"></span> | <a href=\"hide?id=50175070&amp;goto=news\">hide</a> | <a href=\"item?id=50175070\">112&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50170593\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50170593' href='vote?id=50170593&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://permit.petercai.com/\">Show HN: SimCity, but with Permits</a><span class=\"sitebit comhead\"> (<a href=\"from?site=petercai.com\"><span class=\"sitestr\">petercai.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50170593\">752 points</span> by <a href=\"user?id=pcai\" class=\"hnuser\">pcai</a> <span class=\"age\" title=\"2026-10-20T18:29:09\"><a href=\"item?id=50170593\">13 hours ago</a></span> <span id=\"unv_50170593\"></span> | <a href=\"hide?id=50170593&amp;goto=news\">hide</a> | <a href=\"item?id=50170593\">359&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50174687\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50174687' href='vote?id=50174687&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/\">Muse exposes users&#x27; personal and business secrets when they share conversations</a><span class=\"sitebit comhead\"> (<a href=\"from?site=arstechnica.com\"><span class=\"sitestr\">arstechnica.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50174687\">128 points</span> by <a href=\"user?id=gumby\" class=\"hnuser\">gumby</a> <span class=\"age\" title=\"2026-10-21T00:45:59\"><a href=\"item?id=50174687\">7 hours ago</a></span> <span id=\"unv_50174687\"></span> | <a href=\"hide?id=50174687&amp;goto=news\">hide</a> | <a href=\"item?id=50174687\">37&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50172041\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50172041' href='vote?id=50172041&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://news-web.php.net/php.announce/509\">Upcoming critical PHP security release (CVE-2026-109618 &#x2F; -109619)</a><span class=\"sitebit comhead\"> (<a href=\"from?site=php.net\"><span class=\"sitestr\">php.net</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50172041\">583 points</span> by <a href=\"user?id=xd\" class=\"hnuser\">xd</a> <span class=\"age\" title=\"2026-10-20T20:15:50\"><a href=\"item?id=50172041\">11 hours ago</a></span> <span id=\"unv_50172041\"></span> | <a href=\"hide?id=50172041&amp;goto=news\">hide</a> | <a href=\"item?id=50172041\">213&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50173487\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50173487' href='vote?id=50173487&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negoti",
+  "validation_failures": [],
+  "timestamp": "2026-10-21T08:03:08.379434+00:00",
+  "per_field_hashes": {
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "efc4e38f9f7c296e6aa0912a946792708df4cc6bfe1680edf604c0f332427f4c",
+      "changed": true
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "efc4e38f9f7c296e6aa0912a946792708df4cc6bfe1680edf604c0f332427f4c",
+      "changed": true
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "e88c0daaa08d90b393d0cacffe76aaca649d6aa164c9b2a079dce6ad3acf1c93",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    }
+  }
+}
