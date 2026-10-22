@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "7b9f7b5b0ae51c75e0935926a65ff2f0ca648ababdd08bf776e56bf3c7692440",
+  "changed_fields": [
+    "url",
+    "title",
+    "score"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?xRLUGZw7cmuze0dugP4m\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50191507\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50191507' href='vote?id=50191507&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://github.com/openai/openai-cli\">OpenAI CLI</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/openai\"><span class=\"sitestr\">github.com/openai</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50191507\">74 points</span> by <a href=\"user?id=armcat\" class=\"hnuser\">armcat</a> <span class=\"age\" title=\"2026-10-22T05:23:11\"><a href=\"item?id=50191507\">2 hours ago</a></span> <span id=\"unv_50191507\"></span> | <a href=\"hide?id=50191507&amp;goto=news\">hide</a> | <a href=\"item?id=50191507\">40&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50190455\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50190455' href='vote?id=50190455&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf\">The recently proposed o(n log n) integer multiplication algorithm [pdf]</a><span class=\"sitebit comhead\"> (<a href=\"from?site=unsw.edu.au\"><span class=\"sitestr\">unsw.edu.au</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50190455\">174 points</span> by <a href=\"user?id=craigcitro\" class=\"hnuser\">craigcitro</a> <span class=\"age\" title=\"2026-10-22T02:30:52\"><a href=\"item?id=50190455\">5 hours ago</a></span> <span id=\"unv_50190455\"></span> | <a href=\"hide?id=50190455&amp;goto=news\">hide</a> | <a href=\"item?id=50190455\">98&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50190363\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50190363' href='vote?id=50190363&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://simedw.com/2026/10/21/world-model-terminal/\">WorldTUI: I trained a 360M model to pretend to be a terminal</a><span class=\"sitebit comhead\"> (<a href=\"from?site=simedw.com\"><span class=\"sitestr\">simedw.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50190363\">116 points</span> by <a href=\"user?id=alphax314\" class=\"hnuser\">alphax314</a> <span class=\"age\" title=\"2026-10-22T02:18:41\"><a href=\"item?id=50190363\">3 hours ago</a></span> <span id=\"unv_50190363\"></span> | <a href=\"hide?id=50190363&amp;goto=news\">hide</a> | <a href=\"item?id=50190363\">44&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50188948\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50188948' href='vote?id=50188948&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://eliastaylor.com/noexploit/\">There isn&#x27;t an easy exploit for this PHP vulnerability</a><span class=\"sitebit comhead\"> (<a href=\"from?site=eliastaylor.com\"><span class=\"sitestr\">eliastaylor.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50188948\">480 points</span> by <a href=\"user?id=zkldi\" class=\"hnuser\">zkldi</a> <span class=\"age\" title=\"2026-10-21T23:13:27\"><a href=\"item?id=50188948\">8 hours ago</a></span> <span id=\"unv_50188948\"></span> | <a href=\"hide?id=50188948&amp;goto=news\">hide</a> | <a href=\"item?id=50188948\">260&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50185869\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50185869' href='vote?id=50185869&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/\">GitLab critical pat",
+  "validation_failures": [],
+  "timestamp": "2026-10-22T08:01:37.690273+00:00",
+  "per_field_hashes": {
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "3ffa483348ed07772c7cd6dcc287c45feabf1b77673138f5f1951288ac240864",
+      "changed": true
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "3ffa483348ed07772c7cd6dcc287c45feabf1b77673138f5f1951288ac240864",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "7cc648b532554483b321223a8b81f23936e4908d2538442a3be12fc1a241cc33",
+      "changed": true
+    }
+  }
+}
