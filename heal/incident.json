@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "30cea47969ac6ad680c614224d342ef356273e603c0d2720c57b50c7a6b23f58",
+  "changed_fields": [
+    "url",
+    "score",
+    "title"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?EieZrD3Ae1qf3cIQQaRb\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50225695\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50225695' href='vote?id=50225695&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://danluu.com/ambitious/\">We should be more ambitious with the software we build</a><span class=\"sitebit comhead\"> (<a href=\"from?site=danluu.com\"><span class=\"sitestr\">danluu.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50225695\">346 points</span> by <a href=\"user?id=ltratt\" class=\"hnuser\">ltratt</a> <span class=\"age\" title=\"2026-10-24T21:47:31\"><a href=\"item?id=50225695\">10 hours ago</a></span> <span id=\"unv_50225695\"></span> | <a href=\"hide?id=50225695&amp;goto=news\">hide</a> | <a href=\"item?id=50225695\">298&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50227356\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50227356' href='vote?id=50227356&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras\">Cerebras Deploys Trillion-Parameter AI Models</a><span class=\"sitebit comhead\"> (<a href=\"from?site=cerebras.ai\"><span class=\"sitestr\">cerebras.ai</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50227356\">119 points</span> by <a href=\"user?id=gmays\" class=\"hnuser\">gmays</a> <span class=\"age\" title=\"2026-10-25T01:33:49\"><a href=\"item?id=50227356\">6 hours ago</a></span> <span id=\"unv_50227356\"></span> | <a href=\"hide?id=50227356&amp;goto=news\">hide</a> | <a href=\"item?id=50227356\">41&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50193936\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50193936' href='vote?id=50193936&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://kottke.org/26/10/how-japanese-dried-bonito-is-made\">How Japanese Dried Bonito Is Made</a><span class=\"sitebit comhead\"> (<a href=\"from?site=kottke.org\"><span class=\"sitestr\">kottke.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50193936\">14 points</span> by <a href=\"user?id=bookofjoe\" class=\"hnuser\">bookofjoe</a> <span class=\"age\" title=\"2026-10-22T11:31:03\"><a href=\"item?id=50193936\">2 hours ago</a></span> <span id=\"unv_50193936\"></span> | <a href=\"hide?id=50193936&amp;goto=news\">hide</a> | <a href=\"item?id=50193936\">2&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50224100\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50224100' href='vote?id=50224100&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://aardappel.github.io/goose/\">The Goose Programming Language</a><span class=\"sitebit comhead\"> (<a href=\"from?site=aardappel.github.io\"><span class=\"sitestr\">aardappel.github.io</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50224100\">355 points</span> by <a href=\"user?id=bobbydigitales\" class=\"hnuser\">bobbydigitales</a> <span class=\"age\" title=\"2026-10-24T19:06:55\"><a href=\"item?id=50224100\">12 hours ago</a></span> <span id=\"unv_50224100\"></span> | <a href=\"hide?id=50224100&amp;goto=news\">hide</a> | <a href=\"item?id=50224100\">237&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50224210\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50224210' href='vote?id=50224210&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.speedcrunch.org/\">SpeedCrunch 1.1</a><span class=\"sitebit comhead\"> (<a href=\"from?site=speedcru",
+  "validation_failures": [],
+  "timestamp": "2026-10-25T07:52:12.558802+00:00",
+  "per_field_hashes": {
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "d18b11b9436446a9b1f8fb94abb96d16a6654bbcce453c77da537d2293258ce1",
+      "changed": true
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "88cf7f59d2213283c7aad82d52853e2e3a1b8cf52ef4aed4a0c2fcef446ec4ab",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "d18b11b9436446a9b1f8fb94abb96d16a6654bbcce453c77da537d2293258ce1",
+      "changed": true
+    }
+  }
+}
