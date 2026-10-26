@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "a7f5e437d4fdafc0415b25fd225f1a565ca51a2beebd449a7af36267267fbd0a",
+  "changed_fields": [
+    "title",
+    "score",
+    "url"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?EieZrD3Ae1qf3cIQQaRb\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50238708\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50238708' href='vote?id=50238708&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://titleart.dvy.io/\">Show HN: TitleArt – Make text like it&#x27;s 1997</a><span class=\"sitebit comhead\"> (<a href=\"from?site=dvy.io\"><span class=\"sitestr\">dvy.io</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50238708\">177 points</span> by <a href=\"user?id=davidbarker\" class=\"hnuser\">davidbarker</a> <span class=\"age\" title=\"2026-10-26T03:23:57\"><a href=\"item?id=50238708\">4 hours ago</a></span> <span id=\"unv_50238708\"></span> | <a href=\"hide?id=50238708&amp;goto=news\">hide</a> | <a href=\"item?id=50238708\">25&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50238739\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50238739' href='vote?id=50238739&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://github.com/KrushnaVardhanReddy/PaperPilot\">PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/krushnavardhanreddy\"><span class=\"sitestr\">github.com/krushnavardhanreddy</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50238739\">108 points</span> by <a href=\"user?id=vardhan1237\" class=\"hnuser\">vardhan1237</a> <span class=\"age\" title=\"2026-10-26T03:29:05\"><a href=\"item?id=50238739\">4 hours ago</a></span> <span id=\"unv_50238739\"></span> | <a href=\"hide?id=50238739&amp;goto=news\">hide</a> | <a href=\"item?id=50238739\">26&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50234474\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50234474' href='vote?id=50234474&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://imaginationlibrary.com/\">Dolly Parton&#x27;s Imagination Library</a><span class=\"sitebit comhead\"> (<a href=\"from?site=imaginationlibrary.com\"><span class=\"sitestr\">imaginationlibrary.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50234474\">519 points</span> by <a href=\"user?id=jumploops\" class=\"hnuser\">jumploops</a> <span class=\"age\" title=\"2026-10-25T18:23:54\"><a href=\"item?id=50234474\">13 hours ago</a></span> <span id=\"unv_50234474\"></span> | <a href=\"hide?id=50234474&amp;goto=news\">hide</a> | <a href=\"item?id=50234474\">90&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50228115\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50228115' href='vote?id=50228115&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://github.com/notaroomba/keybytes\">Show HN: A Truly Modular Keyboard</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/notaroomba\"><span class=\"sitestr\">github.com/notaroomba</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50228115\">122 points</span> by <a href=\"user?id=NotARoomba\" class=\"hnuser\">NotARoomba</a> <span class=\"age\" title=\"2026-10-25T03:47:56\"><a href=\"item?id=50228115\">6 hours ago</a></span> <span id=\"unv_50228115\"></span> | <a href=\"hide?id=50228115&amp;goto=news\">hide</a> | <a href=\"item?id=50228115\">29&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50209278\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50209278' href='vote?id=50209278&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://brashandplucky.com/2026/10/15/growing-trees.html\">Growing Trees</a><span cl",
+  "validation_failures": [],
+  "timestamp": "2026-10-26T08:11:31.923020+00:00",
+  "per_field_hashes": {
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "7b8b5bd57e1621cf1fc965cfacbc0fd2bf2be6c25d2f78ba00f58bde79e6e282",
+      "changed": true
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "9f4c391216b9d0bde103e21c43a4801416702520d35d40f33f4c1fb2dcf842a9",
+      "changed": true
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "7b8b5bd57e1621cf1fc965cfacbc0fd2bf2be6c25d2f78ba00f58bde79e6e282",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    }
+  }
+}
