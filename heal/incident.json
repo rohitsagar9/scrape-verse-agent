@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "40accbd7ccf3d1e3374a731ca51f97cc776cf3e7de97cd6a8f8a299e50c6ce14",
+  "changed_fields": [
+    "url",
+    "title",
+    "score"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?IrLBWjVb5CpaMHgal4V1\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50251344\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50251344' href='vote?id=50251344&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://openai.com/index/building-scientific-understanding-with-academic-communities/\">Three new discoveries in mathematics, computer science, and physics</a><span class=\"sitebit comhead\"> (<a href=\"from?site=openai.com\"><span class=\"sitestr\">openai.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50251344\">718 points</span> by <a href=\"user?id=jonluca\" class=\"hnuser\">jonluca</a> <span class=\"age\" title=\"2026-10-26T21:35:28\"><a href=\"item?id=50251344\">8 hours ago</a></span> <span id=\"unv_50251344\"></span> | <a href=\"hide?id=50251344&amp;goto=news\">hide</a> | <a href=\"item?id=50251344\">314&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50251661\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50251661' href='vote?id=50251661&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf\">The Exponential Time Hypothesis Is False [pdf]</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/openai\"><span class=\"sitestr\">github.com/openai</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50251661\">501 points</span> by <a href=\"user?id=vok\" class=\"hnuser\">vok</a> <span class=\"age\" title=\"2026-10-26T21:59:15\"><a href=\"item?id=50251661\">8 hours ago</a></span> <span id=\"unv_50251661\"></span> | <a href=\"hide?id=50251661&amp;goto=news\">hide</a> | <a href=\"item?id=50251661\">185&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50254836\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50254836' href='vote?id=50254836&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://allmodels.io/llm/abliterated\">There are now 5 inference providers for abliterated DeepSeek</a><span class=\"sitebit comhead\"> (<a href=\"from?site=allmodels.io\"><span class=\"sitestr\">allmodels.io</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50254836\">28 points</span> by <a href=\"user?id=moeadham\" class=\"hnuser\">moeadham</a> <span class=\"age\" title=\"2026-10-27T04:53:52\"><a href=\"item?id=50254836\">1 hour ago</a></span> <span id=\"unv_50254836\"></span> | <a href=\"hide?id=50254836&amp;goto=news\">hide</a> | <a href=\"item?id=50254836\">21&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50245138\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50245138' href='vote?id=50245138&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://magazine.sebastianraschka.com/p/building-reasoning-models\">Sebastian Raschka&#x27;s from-scratch video course on building reasoning models</a><span class=\"sitebit comhead\"> (<a href=\"from?site=sebastianraschka.com\"><span class=\"sitestr\">sebastianraschka.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50245138\">644 points</span> by <a href=\"user?id=sgiannopoulos\" class=\"hnuser\">sgiannopoulos</a> <span class=\"age\" title=\"2026-10-26T15:11:59\"><a href=\"item?id=50245138\">14 hours ago</a></span> <span id=\"unv_50245138\"></span> | <a href=\"hide?id=50245138&amp;goto=news\">hide</a> | <a href=\"item?id=50245138\">91&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50248055\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50248055' href='vote?id=50248055&amp;how=up&amp;goto=news'><div class='votearrow' titl",
+  "validation_failures": [],
+  "timestamp": "2026-10-27T08:26:40.587743+00:00",
+  "per_field_hashes": {
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "c301bf6aa40e4cb431c2a1f72cbd04f3fe92778dc142b28b597e882fe21bc777",
+      "changed": true
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "c301bf6aa40e4cb431c2a1f72cbd04f3fe92778dc142b28b597e882fe21bc777",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "322ca175de93d5786951ad60b40234d1fdfe82716ae6392c5a1cb09d01f27200",
+      "changed": true
+    }
+  }
+}
