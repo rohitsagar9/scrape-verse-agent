@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "9bf4a9975c2853ff805e6f012c13c09766c6bd27b0d862d2d323d0d4b0b5a2c1",
+  "changed_fields": [
+    "title",
+    "url",
+    "score"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?Z6eHuL4AiZDrSCqdz7DG\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50296470\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50296470' href='vote?id=50296470&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8\">Binance-hacker-1029 – $5.6B stolen from Binance</a><span class=\"sitebit comhead\"> (<a href=\"from?site=arkm.com\"><span class=\"sitestr\">arkm.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50296470\">1287 points</span> by <a href=\"user?id=Tiberium\" class=\"hnuser\">Tiberium</a> <span class=\"age\" title=\"2026-10-29T21:38:59\"><a href=\"item?id=50296470\">11 hours ago</a></span> <span id=\"unv_50296470\"></span> | <a href=\"hide?id=50296470&amp;goto=news\">hide</a> | <a href=\"item?id=50296470\">791&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50289418\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50289418' href='vote?id=50289418&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://mistral.ai/news/mistral-large-4-oss/\">We&#x27;re releasing the weights of Mistral Large 4</a><span class=\"sitebit comhead\"> (<a href=\"from?site=mistral.ai\"><span class=\"sitestr\">mistral.ai</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50289418\">1439 points</span> by <a href=\"user?id=kuberwastaken\" class=\"hnuser\">kuberwastaken</a> <span class=\"age\" title=\"2026-10-29T14:13:21\"><a href=\"item?id=50289418\">18 hours ago</a></span> <span id=\"unv_50289418\"></span> | <a href=\"hide?id=50289418&amp;goto=news\">hide</a> | <a href=\"item?id=50289418\">387&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50255343\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50255343' href='vote?id=50255343&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://cuis.st/\">Cuis: The Modern Smalltalk-80</a><span class=\"sitebit comhead\"> (<a href=\"from?site=cuis.st\"><span class=\"sitestr\">cuis.st</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50255343\">97 points</span> by <a href=\"user?id=theanonymousone\" class=\"hnuser\">theanonymousone</a> <span class=\"age\" title=\"2026-10-27T06:33:16\"><a href=\"item?id=50255343\">7 hours ago</a></span> <span id=\"unv_50255343\"></span> | <a href=\"hide?id=50255343&amp;goto=news\">hide</a> | <a href=\"item?id=50255343\">15&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50270651\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50270651' href='vote?id=50270651&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://github.com/da-luce/astroterm\">Astroterm: A Planetarium for Your Terminal</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/da-luce\"><span class=\"sitestr\">github.com/da-luce</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50270651\">127 points</span> by <a href=\"user?id=nvmdbljstm\" class=\"hnuser\">nvmdbljstm</a> <span class=\"age\" title=\"2026-10-28T08:29:55\"><a href=\"item?id=50270651\">7 hours ago</a></span> <span id=\"unv_50270651\"></span> | <a href=\"hide?id=50270651&amp;goto=news\">hide</a> | <a href=\"item?id=50270651\">10&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50273104\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50273104' href='vote?id=50273104&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.youtube.com/watch?v=kL9BTbIGxLg\">I&#x27;m so bad at billiards that I ended up in the hyperbolic plane [video]</a><span cl",
+  "validation_failures": [],
+  "timestamp": "2026-10-30T09:08:09.677887+00:00",
+  "per_field_hashes": {
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "97aca97fab3321a248cd779c3ac08eae393b5775e0d2e9c0753f925f72e585d4",
+      "changed": true
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "97aca97fab3321a248cd779c3ac08eae393b5775e0d2e9c0753f925f72e585d4",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "466b11c8b39f2325dd3b30159493aaf647d971c56582289433e48a04c4b6cacb",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    }
+  }
+}
