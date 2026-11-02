@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "6a859a28d31c3553a2f0e1a27a64e689ba38e0d738b8e6339761c31e4638c209",
+  "changed_fields": [
+    "title",
+    "url",
+    "score"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?TzuBmqOFVJnY6yE8iqw3\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50333339\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50333339' href='vote?id=50333339&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://wikihack.netlify.app\">Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN</a><span class=\"sitebit comhead\"> (<a href=\"from?site=wikihack.netlify.app\"><span class=\"sitestr\">wikihack.netlify.app</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50333339\">174 points</span> by <a href=\"user?id=aizk\" class=\"hnuser\">aizk</a> <span class=\"age\" title=\"2026-11-02T05:06:30\"><a href=\"item?id=50333339\">5 hours ago</a></span> <span id=\"unv_50333339\"></span> | <a href=\"hide?id=50333339&amp;goto=news\">hide</a> | <a href=\"item?id=50333339\">47&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50326821\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50326821' href='vote?id=50326821&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://hackerbooks.org\">Show HN: HackerBooks – HackerTube, but for books mentioned on HN</a><span class=\"sitebit comhead\"> (<a href=\"from?site=hackerbooks.org\"><span class=\"sitestr\">hackerbooks.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50326821\">1382 points</span> by <a href=\"user?id=roansh\" class=\"hnuser\">roansh</a> <span class=\"age\" title=\"2026-11-01T15:58:28\"><a href=\"item?id=50326821\">18 hours ago</a></span> <span id=\"unv_50326821\"></span> | <a href=\"hide?id=50326821&amp;goto=news\">hide</a> | <a href=\"item?id=50326821\">231&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50312408\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50312408' href='vote?id=50312408&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html\">Postgres 19 is late because so many more bugs are being found now</a><span class=\"sitebit comhead\"> (<a href=\"from?site=rhaas.blogspot.com\"><span class=\"sitestr\">rhaas.blogspot.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50312408\">449 points</span> by <a href=\"user?id=soheilpro\" class=\"hnuser\">soheilpro</a> <span class=\"age\" title=\"2026-10-31T01:38:56\"><a href=\"item?id=50312408\">11 hours ago</a></span> <span id=\"unv_50312408\"></span> | <a href=\"hide?id=50312408&amp;goto=news\">hide</a> | <a href=\"item?id=50312408\">285&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50319510\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50319510' href='vote?id=50319510&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://karpathy.bearblog.dev/hacker-tube/\">HackerTube: YouTube built from videos recommended by HN</a><span class=\"sitebit comhead\"> (<a href=\"from?site=karpathy.bearblog.dev\"><span class=\"sitestr\">karpathy.bearblog.dev</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50319510\">2568 points</span> by <a href=\"user?id=karpathy\" class=\"hnuser\">karpathy</a> <span class=\"age\" title=\"2026-10-31T19:56:53\"><a href=\"item?id=50319510\">1 day ago</a></span> <span id=\"unv_50319510\"></span> | <a href=\"hide?id=50319510&amp;goto=news\">hide</a> | <a href=\"item?id=50319510\">568&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50332163\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50332163' href='vote?id=50332163&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://fosscomi",
+  "validation_failures": [],
+  "timestamp": "2026-11-02T10:09:37.113891+00:00",
+  "per_field_hashes": {
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "11ce2a2a10b7eb3139eb53599a6f1276209d380b7c5ca9737716c44407ab7536",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "11ce2a2a10b7eb3139eb53599a6f1276209d380b7c5ca9737716c44407ab7536",
+      "changed": true
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "c754b0e60d806745a88769f8e31a1e576831ff9fbbac9e418896915dddc10ad6",
+      "changed": true
+    }
+  }
+}
