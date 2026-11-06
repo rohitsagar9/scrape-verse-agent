@@ -1,0 +1,47 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "6a5b16e27edaa5a6a9d16d21c2400794e79127b62c794d8f93e3568efc58aa98",
+  "changed_fields": [
+    "score",
+    "title",
+    "url"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?nm2eWJmYGZyfyfh6iX8P\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50389333\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50389333' href='vote?id=50389333&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://github.com/ppmpreetham/BUI\">Blender&#x27;s UI and Runtime: Much Faster Than GPUI</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/ppmpreetham\"><span class=\"sitestr\">github.com/ppmpreetham</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50389333\">144 points</span> by <a href=\"user?id=ppmpreetham\" class=\"hnuser\">ppmpreetham</a> <span class=\"age\" title=\"2026-11-06T07:40:35\"><a href=\"item?id=50389333\">2 hours ago</a></span> <span id=\"unv_50389333\"></span> | <a href=\"hide?id=50389333&amp;goto=news\">hide</a> | <a href=\"item?id=50389333\">57&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50385272\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50385272' href='vote?id=50385272&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://github.com/anthropics/claude-code/issues/107757\">Claude Code sends your email address to websites</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/anthropics\"><span class=\"sitestr\">github.com/anthropics</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50385272\">1136 points</span> by <a href=\"user?id=motoroco\" class=\"hnuser\">motoroco</a> <span class=\"age\" title=\"2026-11-05T22:17:15\"><a href=\"item?id=50385272\">11 hours ago</a></span> <span id=\"unv_50385272\"></span> | <a href=\"hide?id=50385272&amp;goto=news\">hide</a> | <a href=\"item?id=50385272\">346&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50378228\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50378228' href='vote?id=50378228&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://sshhole.com\">sshole</a><span class=\"sitebit comhead\"> (<a href=\"from?site=sshhole.com\"><span class=\"sitestr\">sshhole.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50378228\">2699 points</span> by <a href=\"user?id=josemrb\" class=\"hnuser\">josemrb</a> <span class=\"age\" title=\"2026-11-05T12:19:02\"><a href=\"item?id=50378228\">21 hours ago</a></span> <span id=\"unv_50378228\"></span> | <a href=\"hide?id=50378228&amp;goto=news\">hide</a> | <a href=\"item?id=50378228\">647&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50389370\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50389370' href='vote?id=50389370&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://apps.metaebene.me/en/kugelblitz\">Kugelblitz – Mac-Native Google Earth Alternative</a><span class=\"sitebit comhead\"> (<a href=\"from?site=metaebene.me\"><span class=\"sitestr\">metaebene.me</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50389370\">56 points</span> by <a href=\"user?id=luoc\" class=\"hnuser\">luoc</a> <span class=\"age\" title=\"2026-11-06T07:47:38\"><a href=\"item?id=50389370\">2 hours ago</a></span> <span id=\"unv_50389370\"></span> | <a href=\"hide?id=50389370&amp;goto=news\">hide</a> | <a href=\"item?id=50389370\">6&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50389448\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50389448' href='vote?id=50389448&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://obelisk.club/research/app-store-2026\">App Store 2026 in numbers: AI, pricing, abandoned apps</a><span class=\"sitebit comhead\"> (<a href=\"from?sit",
+  "validation_failures": [],
+  "timestamp": "2026-11-06T10:01:00.867709+00:00",
+  "per_field_hashes": {
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "0974d40dd40262f2feab426c8fbebe69c54d0da7eff6cb7cf4029a9933daa62d",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "changed": false
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "b618a715bb7e1e5565262301c25fe6972fe8e9f56a91f85ac1d09c4724d6af67",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "b618a715bb7e1e5565262301c25fe6972fe8e9f56a91f85ac1d09c4724d6af67",
+      "changed": true
+    }
+  }
+}
