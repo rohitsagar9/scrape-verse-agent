@@ -1,0 +1,48 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "2e36180db2a028b3130326b14389ce36f031fad8a8f101fb1c6129887766c478",
+  "changed_fields": [
+    "score",
+    "author",
+    "url",
+    "title"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?zht62MZSbklThMM5QpwL\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50410107\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50410107' href='vote?id=50410107&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://caleb.software/posts/claude-to-pi.html\">Goodbye Claude, Hello Pi</a><span class=\"sitebit comhead\"> (<a href=\"from?site=caleb.software\"><span class=\"sitestr\">caleb.software</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50410107\">282 points</span> by <a href=\"user?id=karagenit\">karagenit</a> <span class=\"age\" title=\"2026-11-08T03:11:48\"><a href=\"item?id=50410107\">6 hours ago</a></span> <span id=\"unv_50410107\"></span> | <a href=\"hide?id=50410107&amp;goto=news\">hide</a> | <a href=\"item?id=50410107\">164&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50411467\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50411467' href='vote?id=50411467&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.lorekit.io/blog/open-agent-memory-format\">Agent memory needs its OpenTelemetry moment</a><span class=\"sitebit comhead\"> (<a href=\"from?site=lorekit.io\"><span class=\"sitestr\">lorekit.io</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50411467\">11 points</span> by <a href=\"user?id=mthines\">mthines</a> <span class=\"age\" title=\"2026-11-08T08:40:23\"><a href=\"item?id=50411467\">56 minutes ago</a></span> <span id=\"unv_50411467\"></span> | <a href=\"hide?id=50411467&amp;goto=news\">hide</a> | <a href=\"item?id=50411467\">8&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50406670\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50406670' href='vote?id=50406670&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://blog.bosscher.ch/posts/openstick/\">What I run on my $10 USD OpenStick homelab</a><span class=\"sitebit comhead\"> (<a href=\"from?site=bosscher.ch\"><span class=\"sitestr\">bosscher.ch</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50406670\">568 points</span> by <a href=\"user?id=LaurensBER\">LaurensBER</a> <span class=\"age\" title=\"2026-11-07T18:12:12\"><a href=\"item?id=50406670\">15 hours ago</a></span> <span id=\"unv_50406670\"></span> | <a href=\"hide?id=50406670&amp;goto=news\">hide</a> | <a href=\"item?id=50406670\">110&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50366902\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50366902' href='vote?id=50366902&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://clj.rs/\">Clj.rs – a Clojure dialect implemented in Rust</a><span class=\"sitebit comhead\"> (<a href=\"from?site=clj.rs\"><span class=\"sitestr\">clj.rs</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50366902\">36 points</span> by <a href=\"user?id=simonpure\">simonpure</a> <span class=\"age\" title=\"2026-11-04T15:23:16\"><a href=\"item?id=50366902\">3 hours ago</a></span> <span id=\"unv_50366902\"></span> | <a href=\"hide?id=50366902&amp;goto=news\">hide</a> | <a href=\"item?id=50366902\">2&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50407882\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50407882' href='vote?id=50407882&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again\">Claude Code&#x27;s &quot;Don&#x27;t Ask Again&quot; exposes passwords in 1,122 public GitHub files</a><span class=\"sitebit comhead\"> (<a href=\"from?site=apiiro.com\"><span",
+  "validation_failures": [],
+  "timestamp": "2026-11-08T09:38:27.524778+00:00",
+  "per_field_hashes": {
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "3971062366156f6e01d46fbd60f072ce9e6f4771d0d62e5d521c4e7ad92fe537",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "c7cdf8e4498773079f79c5cf188a387d7412d4866696157bc5d85757698d4973",
+      "changed": true
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "3e0d475258787ed3844b28c54683ea81f1a1552aa44032f421f0689ea196dee8",
+      "changed": true
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "3e0d475258787ed3844b28c54683ea81f1a1552aa44032f421f0689ea196dee8",
+      "changed": true
+    }
+  }
+}
