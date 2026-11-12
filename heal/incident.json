@@ -1,0 +1,48 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "2fa76188fc881591184c3dd2e393ff7108b158abf804c8ecccce760e7eb0c68a",
+  "changed_fields": [
+    "url",
+    "title",
+    "author",
+    "score"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?OCEzWKluI4lq0wVh0aql\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50438261\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50438261' href='vote?id=50438261&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md\">Jane Street: Socratic Tutor</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/janestreet\"><span class=\"sitestr\">github.com/janestreet</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50438261\">218 points</span> by <a href=\"user?id=tosh\">tosh</a> <span class=\"age\" title=\"2026-11-10T10:18:22\"><a href=\"item?id=50438261\">4 hours ago</a></span> <span id=\"unv_50438261\"></span> | <a href=\"hide?id=50438261&amp;goto=news\">hide</a> | <a href=\"item?id=50438261\">53&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50425017\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50425017' href='vote?id=50425017&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://codeberg.org/wvhulle/bootvine\">A live tree of systemd jobs on the boot console</a><span class=\"sitebit comhead\"> (<a href=\"from?site=codeberg.org/wvhulle\"><span class=\"sitestr\">codeberg.org/wvhulle</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50425017\">62 points</span> by <a href=\"user?id=orhunp_\">orhunp_</a> <span class=\"age\" title=\"2026-11-09T13:02:44\"><a href=\"item?id=50425017\">2 hours ago</a></span> <span id=\"unv_50425017\"></span> | <a href=\"hide?id=50425017&amp;goto=news\">hide</a> | <a href=\"item?id=50425017\">12&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50450488\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50450488' href='vote?id=50450488&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028\">Tim Peters has died</a><span class=\"sitebit comhead\"> (<a href=\"from?site=python.org\"><span class=\"sitestr\">python.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50450488\">1214 points</span> by <a href=\"user?id=ayhanfuat\">ayhanfuat</a> <span class=\"age\" title=\"2026-11-11T07:03:17\"><a href=\"item?id=50450488\">17 hours ago</a></span> <span id=\"unv_50450488\"></span> | <a href=\"hide?id=50450488&amp;goto=news\">hide</a> | <a href=\"item?id=50450488\">134&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50459745\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50459745' href='vote?id=50459745&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www.mcmillen.dev/sigbovik/\">93% of paint splatters are valid Perl programs (2019)</a><span class=\"sitebit comhead\"> (<a href=\"from?site=mcmillen.dev\"><span class=\"sitestr\">mcmillen.dev</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50459745\">433 points</span> by <a href=\"user?id=zenincognito\">zenincognito</a> <span class=\"age\" title=\"2026-11-11T22:34:23\"><a href=\"item?id=50459745\">11 hours ago</a></span> <span id=\"unv_50459745\"></span> | <a href=\"hide?id=50459745&amp;goto=news\">hide</a> | <a href=\"item?id=50459745\">57&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50438958\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50438958' href='vote?id=50438958&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://blog.benjamin.ie/legocam\">Legocam: My Lego webcam from 2000, working on a modern Mac</a><span class=\"sitebit comhead\"> (<a href=\"from?site=benjami",
+  "validation_failures": [],
+  "timestamp": "2026-11-12T10:25:02.252421+00:00",
+  "per_field_hashes": {
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "84ced9d82694237f3da2e94c47cb4c30b2cda6b61f378e0122b914e6ffc3a29d",
+      "changed": true
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "84ced9d82694237f3da2e94c47cb4c30b2cda6b61f378e0122b914e6ffc3a29d",
+      "changed": true
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "c7cdf8e4498773079f79c5cf188a387d7412d4866696157bc5d85757698d4973",
+      "changed": true
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "1eee38be706235282077a796e467240eca54fbea32b1dbe8927029820d4e5c52",
+      "changed": true
+    }
+  }
+}
