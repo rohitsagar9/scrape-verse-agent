@@ -1,0 +1,48 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "f507f54366c32e68cffa4db9e67a2912aae89875e2e9b2e6165f4eaddb624493",
+  "changed_fields": [
+    "title",
+    "url",
+    "score",
+    "author"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?OCEzWKluI4lq0wVh0aql\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50467087\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50467087' href='vote?id=50467087&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f\">Jensen Huang resigns</a><span class=\"sitebit comhead\"> (<a href=\"from?site=apnews.com\"><span class=\"sitestr\">apnews.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50467087\">3559 points</span> by <a href=\"user?id=lldb\">lldb</a> <span class=\"age\" title=\"2026-11-12T13:52:29\"><a href=\"item?id=50467087\">20 hours ago</a></span> <span id=\"unv_50467087\"></span> | <a href=\"hide?id=50467087&amp;goto=news\">hide</a> | <a href=\"item?id=50467087\">3135&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50478515\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50478515' href='vote?id=50478515&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://ice-wm.org/\">IceWM</a><span class=\"sitebit comhead\"> (<a href=\"from?site=ice-wm.org\"><span class=\"sitestr\">ice-wm.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50478515\">171 points</span> by <a href=\"user?id=inatreecrown2\">inatreecrown2</a> <span class=\"age\" title=\"2026-11-13T04:54:53\"><a href=\"item?id=50478515\">5 hours ago</a></span> <span id=\"unv_50478515\"></span> | <a href=\"hide?id=50478515&amp;goto=news\">hide</a> | <a href=\"item?id=50478515\">88&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50480480\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50480480' href='vote?id=50480480&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://motherduck.com/blog/the-data-intelligence-engineer/\">The Dawn of the Data Intelligence Engineer</a><span class=\"sitebit comhead\"> (<a href=\"from?site=motherduck.com\"><span class=\"sitestr\">motherduck.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50480480\">15 points</span> by <a href=\"user?id=jonbaer\">jonbaer</a> <span class=\"age\" title=\"2026-11-13T09:08:18\"><a href=\"item?id=50480480\">1 hour ago</a></span> <span id=\"unv_50480480\"></span> | <a href=\"hide?id=50480480&amp;goto=news\">hide</a> | <a href=\"item?id=50480480\">15&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50472038\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50472038' href='vote?id=50472038&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/\">Rust 1.100</a><span class=\"sitebit comhead\"> (<a href=\"from?site=rust-lang.org\"><span class=\"sitestr\">rust-lang.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50472038\">681 points</span> by <a href=\"user?id=mbStavola\">mbStavola</a> <span class=\"age\" title=\"2026-11-12T18:39:05\"><a href=\"item?id=50472038\">14 hours ago</a></span> <span id=\"unv_50472038\"></span> | <a href=\"hide?id=50472038&amp;goto=news\">hide</a> | <a href=\"item?id=50472038\">258&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50477649\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50477649' href='vote?id=50477649&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://brave.com/blog/search-api-agentic-payments/\">Brave Search API now accepts agentic payments via the x402 protocol</a><span class=\"sitebit comhead\"> (<a href=\"from?site=brave.com\"><span class=\"sitestr\">brave.com</span></a>)</span></span",
+  "validation_failures": [],
+  "timestamp": "2026-11-13T10:09:51.771598+00:00",
+  "per_field_hashes": {
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "2bb51c22238e7f00cf21c9d83abe6f0bbc4287e2d9a46c8d603c1b80a3c615c8",
+      "changed": true
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "2bb51c22238e7f00cf21c9d83abe6f0bbc4287e2d9a46c8d603c1b80a3c615c8",
+      "changed": true
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "0514ec238bea9fe25a209c19ef9879f116dfff53a5f743ecf780e57f1bd09997",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "c7cdf8e4498773079f79c5cf188a387d7412d4866696157bc5d85757698d4973",
+      "changed": true
+    },
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    }
+  }
+}
