@@ -1,0 +1,48 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "a7ad3a0da3ffd9df24638fdb34817d1ed62facd04f9ecf9ab1c0e2e72b4f61cc",
+  "changed_fields": [
+    "url",
+    "title",
+    "author",
+    "score"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?OCEzWKluI4lq0wVh0aql\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50572503\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50572503' href='vote?id=50572503&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://architectlabs.com/blog/frostbite\">Frostbite: A new CPU architecture discovered, designed and verified by AI</a><span class=\"sitebit comhead\"> (<a href=\"from?site=architectlabs.com\"><span class=\"sitestr\">architectlabs.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50572503\">23 points</span> by <a href=\"user?id=shioyama\">shioyama</a> <span class=\"age\" title=\"2026-11-20T10:01:41\"><a href=\"item?id=50572503\">36 minutes ago</a></span> <span id=\"unv_50572503\"></span> | <a href=\"hide?id=50572503&amp;goto=news\">hide</a> | <a href=\"item?id=50572503\">12&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50569226\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50569226' href='vote?id=50569226&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://github.com/openssl/openssl/pull/33652\">OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/openssl\"><span class=\"sitestr\">github.com/openssl</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50569226\">260 points</span> by <a href=\"user?id=JacobHenner\">JacobHenner</a> <span class=\"age\" title=\"2026-11-20T02:01:09\"><a href=\"item?id=50569226\">8 hours ago</a></span> <span id=\"unv_50569226\"></span> | <a href=\"hide?id=50569226&amp;goto=news\">hide</a> | <a href=\"item?id=50569226\">205&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50523241\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50523241' href='vote?id=50523241&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver\">The Strongest Sokoban Solver</a><span class=\"sitebit comhead\"> (<a href=\"from?site=healeycodes.com\"><span class=\"sitestr\">healeycodes.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50523241\">59 points</span> by <a href=\"user?id=ibobev\">ibobev</a> <span class=\"age\" title=\"2026-11-16T21:04:01\"><a href=\"item?id=50523241\">4 hours ago</a></span> <span id=\"unv_50523241\"></span> | <a href=\"hide?id=50523241&amp;goto=news\">hide</a> | <a href=\"item?id=50523241\">13&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50569998\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50569998' href='vote?id=50569998&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://ffmpeg.org/download.html#release_9.1\">FFmpeg 9.1 &#x27;Gauss&#x27;</a><span class=\"sitebit comhead\"> (<a href=\"from?site=ffmpeg.org\"><span class=\"sitestr\">ffmpeg.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50569998\">143 points</span> by <a href=\"user?id=gyan\">gyan</a> <span class=\"age\" title=\"2026-11-20T04:02:39\"><a href=\"item?id=50569998\">6 hours ago</a></span> <span id=\"unv_50569998\"></span> | <a href=\"hide?id=50569998&amp;goto=news\">hide</a> | <a href=\"item?id=50569998\">24&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50545818\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50545818' href='vote?id=50545818&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/\">µ-Wire – USB on an ATtiny 10</a><span class=\"sitebit comhead\"> ",
+  "validation_failures": [],
+  "timestamp": "2026-11-20T10:39:27.457947+00:00",
+  "per_field_hashes": {
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "cf2b93cfa71152bd5bd76c4340c1f7008718c9de76e5fd04a500bb928733a768",
+      "changed": true
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "cf2b93cfa71152bd5bd76c4340c1f7008718c9de76e5fd04a500bb928733a768",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "c7cdf8e4498773079f79c5cf188a387d7412d4866696157bc5d85757698d4973",
+      "changed": true
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "59ac7138d882cbf1ac63c7c10da6abe74c6f012b24ed1037acd8726013133441",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    }
+  }
+}
