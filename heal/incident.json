@@ -1,0 +1,48 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "7f4f56071c5628ce37ddcc61cd435c54e727e44c1e22fdcc4bb68668c29a9417",
+  "changed_fields": [
+    "url",
+    "score",
+    "title",
+    "author"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?hjXPehID6iChFnJqXWtz\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50637220\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50637220' href='vote?id=50637220&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\">Matrix Multiplication is Θ(n^2.25) [pdf]</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/openai\"><span class=\"sitestr\">github.com/openai</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50637220\">695 points</span> by <a href=\"user?id=E-Reverance\">E-Reverance</a> <span class=\"age\" title=\"2026-11-25T01:19:26\"><a href=\"item?id=50637220\">10 hours ago</a></span> <span id=\"unv_50637220\"></span> | <a href=\"hide?id=50637220&amp;goto=news\">hide</a> | <a href=\"item?id=50637220\">384&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50638032\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50638032' href='vote?id=50638032&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://buttons.joshwcomeau.com/\">Button Sounds – collection of professionally-recorded button clicks and presses</a><span class=\"sitebit comhead\"> (<a href=\"from?site=joshwcomeau.com\"><span class=\"sitestr\">joshwcomeau.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50638032\">443 points</span> by <a href=\"user?id=gaurang_tandon\">gaurang_tandon</a> <span class=\"age\" title=\"2026-11-25T03:23:07\"><a href=\"item?id=50638032\">8 hours ago</a></span> <span id=\"unv_50638032\"></span> | <a href=\"hide?id=50638032&amp;goto=news\">hide</a> | <a href=\"item?id=50638032\">62&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50640746\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50640746' href='vote?id=50640746&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://marioschlosser.org/riemann/\">The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map</a><span class=\"sitebit comhead\"> (<a href=\"from?site=marioschlosser.org\"><span class=\"sitestr\">marioschlosser.org</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50640746\">18 points</span> by <a href=\"user?id=Guestmodinfo\">Guestmodinfo</a> <span class=\"age\" title=\"2026-11-25T10:32:04\"><a href=\"item?id=50640746\">1 hour ago</a></span> <span id=\"unv_50640746\"></span> | <a href=\"hide?id=50640746&amp;goto=news\">hide</a> | <a href=\"item?id=50640746\">4&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50638503\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50638503' href='vote?id=50638503&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://gpu-demo-gallery.pages.dev/\">Show HN: Old Nvidia and ATI tech demos, running again in the browser</a><span class=\"sitebit comhead\"> (<a href=\"from?site=gpu-demo-gallery.pages.dev\"><span class=\"sitestr\">gpu-demo-gallery.pages.dev</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50638503\">161 points</span> by <a href=\"user?id=arkits\">arkits</a> <span class=\"age\" title=\"2026-11-25T04:31:48\"><a href=\"item?id=50638503\">7 hours ago</a></span> <span id=\"unv_50638503\"></span> | <a href=\"hide?id=50638503&amp;goto=news\">hide</a> | <a href=\"item?id=50638503\">39&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50637686\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50637686' href='vote?id=50637686&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a hre",
+  "validation_failures": [],
+  "timestamp": "2026-11-25T11:49:48.443461+00:00",
+  "per_field_hashes": {
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "b7c84df4f61b0792a9d73b970fb1e407e452b83c508ebff9c11f8ee8678e2794",
+      "changed": true
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "8620862f843e11aa0e622770636336abb23fa8402b1302e3435e7623ce6c716d",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "b7c84df4f61b0792a9d73b970fb1e407e452b83c508ebff9c11f8ee8678e2794",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "c7cdf8e4498773079f79c5cf188a387d7412d4866696157bc5d85757698d4973",
+      "changed": true
+    }
+  }
+}
