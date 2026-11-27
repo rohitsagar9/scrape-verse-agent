@@ -1,0 +1,48 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "315e8249078205f841cf61238506ffa05b745350c2bd4462bd0455cc0673fbbf",
+  "changed_fields": [
+    "score",
+    "title",
+    "url",
+    "author"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?Nn02k51aqI4mGgQGTf0W\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50663595\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50663595' href='vote?id=50663595&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://construct22.com/\">The group chat where your AI talks behind your back</a><span class=\"sitebit comhead\"> (<a href=\"from?site=construct22.com\"><span class=\"sitestr\">construct22.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50663595\">309 points</span> by <a href=\"user?id=utiiiD\">utiiiD</a> <span class=\"age\" title=\"2026-11-27T06:44:34\"><a href=\"item?id=50663595\">4 hours ago</a></span> <span id=\"unv_50663595\"></span> | <a href=\"item?id=50663595\">132&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50660180\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50660180' href='vote?id=50660180&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://janlukas.blog/posts/ai-self-hosting\">AI made self-hosting fun again</a><span class=\"sitebit comhead\"> (<a href=\"from?site=janlukas.blog\"><span class=\"sitestr\">janlukas.blog</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50660180\">753 points</span> by <a href=\"user?id=jlelse\">jlelse</a> <span class=\"age\" title=\"2026-11-26T21:47:45\"><a href=\"item?id=50660180\">13 hours ago</a></span> <span id=\"unv_50660180\"></span> | <a href=\"item?id=50660180\">374&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50657530\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50657530' href='vote?id=50657530&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://github.com/antonpictures/youtube-punisher\">YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays</a><span class=\"sitebit comhead\"> (<a href=\"from?site=github.com/antonpictures\"><span class=\"sitestr\">github.com/antonpictures</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50657530\">425 points</span> by <a href=\"user?id=iantongeorge\">iantongeorge</a> <span class=\"age\" title=\"2026-11-26T17:36:47\"><a href=\"item?id=50657530\">17 hours ago</a></span> <span id=\"unv_50657530\"></span> | <a href=\"item?id=50657530\">485&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50659841\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50659841' href='vote?id=50659841&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/\">Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad</a><span class=\"sitebit comhead\"> (<a href=\"from?site=worksinprogress.co\"><span class=\"sitestr\">worksinprogress.co</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50659841\">381 points</span> by <a href=\"user?id=dverlaeckt80\">dverlaeckt80</a> <span class=\"age\" title=\"2026-11-26T21:08:05\"><a href=\"item?id=50659841\">14 hours ago</a></span> <span id=\"unv_50659841\"></span> | <a href=\"item?id=50659841\">92&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50657265\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50657265' href='vote?id=50657265&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://devnull.land/amd-specific-llama-cpp\">AMD-specific fork of llama.cpp</a><span class=\"sitebit comhead\"> (<a href=\"from?site=devnull.land\"><span class=\"sitestr\">devnull.land</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span c",
+  "validation_failures": [],
+  "timestamp": "2026-11-27T11:31:06.873168+00:00",
+  "per_field_hashes": {
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "cf8cdd495290cb2a7e270cc3ec13b7f5a70599798e46f89238bdda185722d0df",
+      "changed": true
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "8a76172ba483fb0531f00da202cc09b1cd22b534d59aca315867f40a9ec1c35a",
+      "changed": true
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "8a76172ba483fb0531f00da202cc09b1cd22b534d59aca315867f40a9ec1c35a",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "c7cdf8e4498773079f79c5cf188a387d7412d4866696157bc5d85757698d4973",
+      "changed": true
+    }
+  }
+}
