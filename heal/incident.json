@@ -1,0 +1,48 @@
+{
+  "collector_id": "c_mt5eqqbi2j9n8wv66n",
+  "url": "https://www.wemakedevs.org/hackathons",
+  "triggered_by": "hash_mismatch",
+  "old_hash": "f5dd0fa5e5b56506e66e42cc4a4cffde8b912bcf06fc1830b808ef96983f8784",
+  "new_hash": "b1d4ab862d67984bc524f0ccaccb15b16af2ca547529651d159ac0cbd97a1ee0",
+  "changed_fields": [
+    "title",
+    "score",
+    "author",
+    "url"
+  ],
+  "new_block_html": "<html lang=\"en\" op=\"news\"><head><meta name=\"referrer\" content=\"origin\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><link rel=\"icon\" href=\"y18.svg\"><link rel=\"stylesheet\" type=\"text/css\" href=\"news.css?QYdOM7bV8T2xE2v2qj9a\"><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"rss\"><title>Hacker News</title></head><body><center><table id=\"hnmain\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"85%\" bgcolor=\"#f6f6ef\"><tr><td bgcolor=\"#ff6600\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"padding:2px\"><tr><td style=\"width:18px;padding-right:4px\"><a href=\"https://news.ycombinator.com\"><img src=\"y18.svg\" width=\"18\" height=\"18\" style=\"border:1px white solid; display:block\"></a></td><td style=\"line-height:12pt; height:10px;\"><span class=\"pagetop\"><b class=\"hnname\"><a href=\"news\">Hacker News</a></b><a href=\"newest\">new</a> | <a href=\"front\">past</a> | <a href=\"newcomments\">comments</a> | <a href=\"ask\">ask</a> | <a href=\"show\">show</a> | <a href=\"jobs\">jobs</a> | <a href=\"submit\" rel=\"nofollow\">submit</a></span></td><td style=\"text-align:right;padding-right:4px;\"><span class=\"pagetop\"><a href=\"login?goto=news\">login</a></span></td></tr></table></td></tr><tr style='height:10px'/><tr id=\"bigbox\"><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr class=\"athing submission\" id=\"50674218\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">1.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50674218' href='vote?id=50674218&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://unkernel.dev\">Unkernel: Real Linux kernel, compiled to WebAssembly</a><span class=\"sitebit comhead\"> (<a href=\"from?site=unkernel.dev\"><span class=\"sitestr\">unkernel.dev</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50674218\">346 points</span> by <a href=\"user?id=nreece\">nreece</a> <span class=\"age\" title=\"2026-11-28T03:19:20\"><a href=\"item?id=50674218\">7 hours ago</a></span> <span id=\"unv_50674218\"></span> | <a href=\"item?id=50674218\">83&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50632052\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">2.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50632052' href='vote?id=50632052&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding\">Loom seamlessly combines weaving, knitting and braiding</a><span class=\"sitebit comhead\"> (<a href=\"from?site=cornell.edu\"><span class=\"sitestr\">cornell.edu</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50632052\">133 points</span> by <a href=\"user?id=PaulHoule\">PaulHoule</a> <span class=\"age\" title=\"2026-11-24T18:10:45\"><a href=\"item?id=50632052\">6 hours ago</a></span> <span id=\"unv_50632052\"></span> | <a href=\"item?id=50632052\">14&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50672565\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">3.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50672565' href='vote?id=50672565&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://research.google/blog/supercharging-transformer-residual-connections/\">Google&#x27;s DeepCrossAttention achieves comparable model quality up to 3x faster</a><span class=\"sitebit comhead\"> (<a href=\"from?site=research.google\"><span class=\"sitestr\">research.google</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50672565\">416 points</span> by <a href=\"user?id=ComputedCamp995\">ComputedCamp995</a> <span class=\"age\" title=\"2026-11-27T23:06:29\"><a href=\"item?id=50672565\">11 hours ago</a></span> <span id=\"unv_50672565\"></span> | <a href=\"item?id=50672565\">159&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50657346\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">4.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50657346' href='vote?id=50657346&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://localthunk.com/blog/balatro-timeline-3aarh\">The Balatro Timeline</a><span class=\"sitebit comhead\"> (<a href=\"from?site=localthunk.com\"><span class=\"sitestr\">localthunk.com</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><span class=\"subline\"><span class=\"score\" id=\"score_50657346\">385 points</span> by <a href=\"user?id=sheepscreek\">sheepscreek</a> <span class=\"age\" title=\"2026-11-26T17:20:27\"><a href=\"item?id=50657346\">11 hours ago</a></span> <span id=\"unv_50657346\"></span> | <a href=\"item?id=50657346\">96&nbsp;comments</a></span></td></tr><tr class=\"spacer\" style=\"height:5px\"></tr><tr class=\"athing submission\" id=\"50674452\"><td align=\"right\" valign=\"top\" class=\"title\"><span class=\"rank\">5.</span></td><td valign=\"top\" class=\"votelinks\"><center><a id='up_50674452' href='vote?id=50674452&amp;how=up&amp;goto=news'><div class='votearrow' title='upvote'></div></a></center></td><td class=\"title\"><span class=\"titleline\"><a href=\"https://www-cs-faculty.stanford.edu/~knuth/moratorium.html\">Knuth: Moratorium on Error Reports</a><span class=\"sitebit comhead\"> (<a href=\"from?site=stanford.edu\"><span class=\"sitestr\">stanford.edu</span></a>)</span></span></td></tr><tr><td colspan=\"2\"></td><td class=\"subtext\"><",
+  "validation_failures": [],
+  "timestamp": "2026-11-28T10:59:21.469343+00:00",
+  "per_field_hashes": {
+    "rank": {
+      "old": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "new": "da1f1cc731e928b2d1a96d11edee8d11e2b45867beae4ccd6c8086061caa24e0",
+      "changed": false
+    },
+    "title": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "a666d6c59759bd8136666176e9f8c38312f03b0e454cedaf2337253b7e4860f5",
+      "changed": true
+    },
+    "score": {
+      "old": "4113f50884ac8704dd1a79969c9ca105f7f9a088ca80a468fe772b5dc050f0a1",
+      "new": "c5c37ffd1685628af916e80758eb1e23d808381f74b01cb36036c850ffd49643",
+      "changed": true
+    },
+    "author": {
+      "old": "8947868c47f530e407cf421ef457c275d889450b6fe79602c2d4efae0e5a8378",
+      "new": "c7cdf8e4498773079f79c5cf188a387d7412d4866696157bc5d85757698d4973",
+      "changed": true
+    },
+    "comments_count": {
+      "old": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "new": "b89f9081b589974d3e9e1ae447723fbac000b074ad8bf18420ea1368bc62d301",
+      "changed": false
+    },
+    "url": {
+      "old": "783f44d86df5581604efd077eee16a810cfcde1bb078b7b02c6aae77252bba15",
+      "new": "a666d6c59759bd8136666176e9f8c38312f03b0e454cedaf2337253b7e4860f5",
+      "changed": true
+    }
+  }
+}
